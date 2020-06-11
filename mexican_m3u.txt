@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,La Raza 106.1 FM
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:5100/listen.pls&t=.m3u
+#EXTINF:0,Banana 92.7 FM
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.105.218.124:8102/listen.pls&t=.m3u
+#EXTINF:0,La Raza 970/1570 AM
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:8500/listen.pls&t=.m3u
+

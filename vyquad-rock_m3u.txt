@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0,Iron Maiden - The Trooper
+https://www.dropbox.com/s/2zvoo0nt6zqmxbl/The%20Trooper%20%282015%20Remaster%29.mp3?dl=1
+#EXTINF:0,Rush - Limelight
+https://www.dropbox.com/s/5xsi50qud9mw1vg/Rush%20-%20Limelight.mp3?dl=1
+#EXTINF:0,Rush - Red Barchetta
+https://www.dropbox.com/s/zjql4gvqodrt5kz/Rush%20-%20Red%20Barchetta.mp3?dl=1
+#EXTINF:0,Quiet Riot - Breathless
+https://www.dropbox.com/s/6rlo7m4d7xjr9c6/Breathless.mp3?dl=1
+#EXTINF:0,Iron Maiden - Where Eagles Dare
+https://www.dropbox.com/s/9iv72f20y2myjdb/Iron%20Maiden%20-%20Where%20Eagles%20Dare%20HD.mp3?dl=1
+#EXTINF:0,Iron Maiden - Wasted Years
+https://www.dropbox.com/s/8i8x9zpvsen9hjb/Iron%20Maiden%20-%20Wasted%20Years..mp3?dl=1
+#EXTINF:0,Iron Maiden - The Duellists
+https://www.dropbox.com/s/zbb6ajy7pym0l61/Iron%20Maiden%20-%20The%20Duellists.mp3?dl=1
+#EXTINF:0,ZZ Top - Sharp Dressed Man
+https://www.dropbox.com/s/meme0uixadv2qrn/ZZ%20Top%20Sharp%20Dressed%20Man.mp3?dl=1
+#EXTINF:0,Rush - Spirit of the Radio
+https://www.dropbox.com/s/aow5usu9kaiv3h5/Rush-%20Spirit%20Of%20The%20Radio.mp3?dl=1
+#EXTINF:0,Blue Oyster Cult - Dont Fear The Reaper
+https://www.dropbox.com/s/fy4aclh8y6qdpd5/%5BDon%27t%20Fear%5D%20The%20Reaper.mp3?dl=1
+#EXTINF:0,Blue Oyster Cult -Burnin For You
+https://www.dropbox.com/s/y2j88a1uggtwv9w/Blue%20Oyster%20Cult%20Burnin%27%20For%20You.mp3?dl=1
+#EXTINF:0,Cheap Trick - Surrender
+https://www.dropbox.com/s/bqnx0j0sw32vg62/Cheap%20Trick%20Surrender.mp3?dl=1
+

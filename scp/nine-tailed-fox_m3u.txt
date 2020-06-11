@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,Nine Tailed Fox
+https://storm37k.com/LBqwyQLeMxK2kUhv/scp/Announc.ogg
+#EXTINF:0,Nine Tailed Fox scp173
+https://storm37k.com/LBqwyQLeMxK2kUhv/scp/Announc173Contain.ogg
+

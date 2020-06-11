@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,TaksimFM - Rap
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.162.32:8018/listen.pls&t=.m3u
+#EXTINF:0,"AddictedToRadio.com - Old School Rap AAC"
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://208.77.21.31:14930/listen.pls&t=.m3u
+#EXTINF:0,GD UP RADIO
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.70.66:8577/listen.pls&t=.m3u
+#EXTINF:0,Dilemaradio - Hip Hop Rap Radio Station
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.39.108:7649/listen.pls?sid=1&t=.m3u
+

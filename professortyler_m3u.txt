@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:0,Deadmau5 - Saved
+https://www.dropbox.com/s/gufj5stgqfxnhbb/deadmau5%20-%20Saved.mp3?dl=1
+#EXTINF:0,Duolingo Song
+https://www.dropbox.com/s/spd4i2h8ymg503a/Duolingo%20%28song%29.mp3?dl=1
+#EXTINF:0,Ellie Goulding - Close to me
+https://www.dropbox.com/s/0qjxcr7ibm1n5h8/Ellie%20Goulding%2C%20Diplo%2C%20Swae%20Lee%20-%20Close%20To%20Me%20%28Audio%29.mp3?dl=1
+#EXTINF:0,Katy Perry - Last Friday Night
+https://www.dropbox.com/s/4gqqcahg1eiqh88/Last_Friday_Night_TGIF.mp3?dl=1
+#EXTINF:0,MGMT - Kids
+https://www.dropbox.com/s/920jybn4jtqmrmp/MGMT-%20Kids.mp3?dl=1
+#EXTINF:0,Paolo Nutini - New Shoes
+https://www.dropbox.com/s/i4d0h5jut0zi8me/Paolo%20Nutini%20-%20New%20Shoes.mp3?dl=1
+#EXTINF:0,Shinedown - State Of My Head
+https://www.dropbox.com/s/qtbq0cu4jd9pln8/Shinedown_State_Of_My_Head_Lyrics.mp3?dl=1
+#EXTINF:0,Smashing Pumpkins - Bullet With Butterfly Wings
+https://www.dropbox.com/s/fherxfw4xl98dzw/Smashing%20Pumpkins%20-%20Bullet%20With%20Butterfly%20Wings%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,The Killers - Somebody Told me
+https://www.dropbox.com/s/tcy2bm4xp3pll7b/The%20Killers%20-%20Somebody%20Told%20Me.mp3?dl=1
+#EXTINF:0,The Prodigy - Hotride
+https://www.dropbox.com/s/cq0kpx9zix7ya6p/The%20Prodigy%20-%20Hotride.mp3?dl=1
+#EXTINF:0,The Pharcyde - Runnin
+https://www.dropbox.com/s/xl5urcnvs4s4kxn/The_Pharcyde_-_Runnin.mp3?dl=1
+#EXTINF:0,Ragnbone Man - Human
+https://www.dropbox.com/s/8m2rz3bd5qfogqu/Rag%27n%27Bone%20Man%20-%20Human%20%28Official%20Video%29.mp3?dl=1
+#EXTINF:0,QSML stuff
+https://www.dropbox.com/s/831pmozhxdsbaxw/Archive_Pinewood_Builders_2019_Promotion.mp3?dl=1
+#EXTINF:0,DeadMau5 - Faxing Berlin
+https://www.dropbox.com/s/izttr1lgw6h2s78/deadmau5_Faxing_Berlin_Original_Mix_full_version.mp3?dl=1
+#EXTINF:0,DeadMau5 - HR 8938 Cephei
+https://www.dropbox.com/s/43hft869ea9opd6/Deadmau5_-_HR_8938_Cephei_1080p_HD.mp3?dl=1
+#EXTINF:0,SimpsonWave1995
+https://www.dropbox.com/s/xbfykhathb2t4pl/SimpsonWave1995.mp3?dl=1
+#EXTINF:0,House Of Pain - Jump Around
+https://www.dropbox.com/s/jbkvy76yighbc6k/House%20Of%20Pain%20-%20Jump%20Around%20%28Lyrics%29%20%28192%20%20kbps%29.mp3?dl=1
+#EXTINF:0,Journey - Whos Crying Now
+https://www.dropbox.com/s/lp1y7u6ywr7t5ku/Journey_-_Who%27s_Crying_Now_%28HQ_with_lyrics%29.mp3?dl=1
+#EXTINF:0,Modjo - Lady (Hear me tonight)
+https://www.dropbox.com/s/jrk1u6g5u9l694k/lady-hear-me-tonight.mp3?dl=1
+#EXTINF:0,Journey - Separate Ways (Worlds Apart)
+https://www.dropbox.com/s/1v9580b5e3q5grp/Journey%20-%20Separate%20Ways%20%28Worlds%20Apart%29.mp3?dl=1
+#EXTINF:0,Abandonedland
+https://www.dropbox.com/s/3uom0wdsye7mp09/Abandonedland%20%282017%29.mp3?dl=1
+#EXTINF:0,Pink Floyd - Money
+https://www.dropbox.com/s/ts7b9ut0aj0mboe/Money%20-%20Pink%20Floyd%20HD%20%28Studio%20Version%29%20%28192%20%20kbps%29.mp3?dl=1
+#EXTINF:0,Finger Eleven - Paralyzer
+https://www.dropbox.com/s/zdfk295x2so6ddk/Finger%20Eleven%20-%20Paralyzer%20%5BHD%5D%20%28192%20%20kbps%29.mp3?dl=1
+#EXTINF:0,Dirty Heads - Vacation
+https://www.dropbox.com/s/gw4say3bhkysoa6/Dirty%20Heads%20-%20Vacation%20%28Lyric%20Video%29%20%28192%20%20kbps%29.mp3?dl=1
+

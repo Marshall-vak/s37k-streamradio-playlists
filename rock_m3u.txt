@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0,The Eagle
+http://listen.livestreamingservice.com/181-eagle_128k.mp3
+#EXTINF:0,Classic Rock Florida SHE RADIO HD
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8046/listen.pls&t=.m3u
+#EXTINF:0,Classic Rock Planet HD Plus
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk6.internet-radio.com:8022/listen.pls&t=.m3u
+#EXTINF:0,Classic Rock HD Plus
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8251/listen.pls&t=.m3u
+#EXTINF:0,Magic 70s Florida
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://airspectrum.cdnstream1.com:8012/1605_192.m3u&t=.m3u
+#EXTINF:0,CLASSIC ROCK MIAMI
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us2.internet-radio.com:8050/listen.pls&t=.m3u
+#EXTINF:0,Outlander Radio  (Heavy)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us4.internet-radio.com:8201/listen.pls&t=.m3u
+#EXTINF:0,MetalRock.FM CSNX-8766
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.62.212:9854/listen.pls?sid=1&t=.m3u
+#EXTINF:0,Epic Rock Radio
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.62.212:9968/listen.pls?sid=1&t=.m3u
+#EXTINF:0,Soundphoria Radio
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://74.82.59.197:8151/listen.pls?sid=1&t=.m3u
+#EXTINF:0,XRM 90s
+http://stream.xrm.fm:80/xrm-alt.ogg
+#EXTINF:0,Blazingstar 50s - 70s
+http://listen.blazingstarradio.com:5001/
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0,Demon Hunter - Lead Us Home
+https://jackhammer312.github.io/Jackhammer312s-Music/Lead Us Home.mp3
+#EXTINF:0,Demon Hunter - In Time
+https://jackhammer312.github.io/Jackhammer312s-Music/Demon Hunter - In Time.mp3
+#EXTINF:0,Demon Hunter - Half as Dead
+https://jackhammer312.github.io/Jackhammer312s-Music/Half as Dead.mp3
+#EXTINF:0,Demon Hunter - Trying Times
+https://jackhammer312.github.io/Jackhammer312s-Music/Trying Times.mp3
+#EXTINF:0,Demon Hunter - Death
+https://jackhammer312.github.io/Jackhammer312s-Music/Demon Hunter - Death.mp3
+#EXTINF:0,Demon Hunter - Shallow Water
+https://jackhammer312.github.io/Jackhammer312s-Music/Shallow Water.mp3
+#EXTINF:0,Demon Hunter - Cold Winter Sun
+https://jackhammer312.github.io/Jackhammer312s-Music/Cold Winter Sun.mp3
+#EXTINF:0,Demon Hunter - On My Side
+https://jackhammer312.github.io/Jackhammer312s-Music/On My Side.mp3
+#EXTINF:0,Demon Hunter - Science of Lies
+https://jackhammer312.github.io/Jackhammer312s-Music/The Science of Lies.mp3
+#EXTINF:0,As We Ascend - Expendable
+https://jackhammer312.github.io/Jackhammer312s-Music/Expendable by As We Ascend (OFFICIAL AUDIO).mp3
+#EXTINF:0,P.O.D. - Condecending
+https://jackhammer312.github.io/Jackhammer312s-Music/P.O.D. - Condescending.mp3
+#EXTINF:0,Disciple - Lay My Burdens
+https://jackhammer312.github.io/Jackhammer312s-Music/Lay_My_Burdens[1].mp3
+

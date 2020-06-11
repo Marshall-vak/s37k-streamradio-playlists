@@ -1,0 +1,1110 @@
+#EXTM3U
+#EXTINF:0,1 Thing
+https://varachack.github.io/Varachack/MP3s/1 Thing.mp3
+#EXTINF:0,1979
+https://varachack.github.io/Varachack/MP3s/1979.mp3
+#EXTINF:0,24/7
+https://varachack.github.io/Varachack/MP3s/24-7.mp3
+#EXTINF:0,28 Days
+https://varachack.github.io/Varachack/Music/28%20Days.mp3
+#EXTINF:0,3 Nights
+https://varachack.github.io/Varachack/MP3s/3%20Nights.mp3
+#EXTINF:0,4:44
+https://varachack.github.io/Varachack/MP3s/Four%20Forty%20Four.mp3
+#EXTINF:0,A Horse With No Name
+https://varachack.github.io/Varachack/MP3s/A%20Horse%20With%20no%20Name.mp3
+#EXTINF:0,A Long Walk
+https://varachack.github.io/Varachack/MP3s/A%20Long%20Walk.mp3
+#EXTINF:0,A Lover's Concerto
+https://varachack.github.io/Varachack/MP3s/A%20Lover's%20Concerto.mp3
+#EXTINF:0,A Thousand Miles
+https://varachack.github.io/Varachack/MP3s/A%20Thousand%20Miles.mp3
+#EXTINF:0,Africa
+https://varachack.github.io/Varachack/MP3s/Africa.mp3
+#EXTINF:0,After The Storm
+https://varachack.github.io/Varachack/MP3s/After%20The%20Storm.mp3
+#EXTINF:0,Ain't Nobody
+https://varachack.github.io/Varachack/MP3s/Ain't%20Nobody.mp3
+#EXTINF:0,Ain't Too Proud to Beg
+https://varachack.github.io/Varachack/MP3s/Ain't%20Too%20Proud%20To%20Beg.mp3
+#EXTINF:0,All Falls Down
+https://varachack.github.io/Varachack/MP3s/All%20Falls%20Down.mp3
+#EXTINF:0,All Of The Lights
+https://varachack.github.io/Varachack/MP3s/All%20Of%20The%20Lights.mp3
+#EXTINF:0,All Of The Stars
+https://varachack.github.io/Varachack/MP3s/All%20The%20Stars.mp3
+#EXTINF:0,Alone
+https://varachack.github.io/Varachack/MP3s/Alone.mp3
+#EXTINF:0,Always Something There To Remind Me (Dionne Warwick)
+https://varachack.github.io/Varachack/MP3s/Always%20Something%20There%20To%20Remind%20Me.mp3
+#EXTINF:0,Always Something There To Remind Me (Naked Eyes)
+https://varachack.github.io/Varachack/MP3s/Always%20Something%20There%20to%20Remind%20Me.mp3
+#EXTINF:0,Amarantine
+https://varachack.github.io/Varachack/MP3s/Amarantine.mp3
+#EXTINF:0,Angel of Mine
+https://varachack.github.io/Varachack/MP3s/Angel%20Of%20Mine.mp3
+#EXTINF:0,Another
+https://varachack.github.io/Varachack/MP3s/Another.mp3
+#EXTINF:0,Another Round
+https://varachack.github.io/Varachack/MP3s/Another%20Round.mp3
+#EXTINF:0,Antisocial
+https://varachack.github.io/Varachack/MP3s/Antisocial.mp3
+#EXTINF:0,Aoi Tori
+https://varachack.github.io/Varachack/MP3s/Aoi%20Tori.mp3
+#EXTINF:0,Apparently
+https://varachack.github.io/Varachack/MP3s/Apparently.mp3
+#EXTINF:0,Are You There With Another Girl
+https://varachack.github.io/Varachack/MP3s/Are%20You%20There%20With%20Another%20Girl.mp3
+#EXTINF:0,Asterisk
+https://varachack.github.io/Varachack/MP3s/Asterisk.mp3
+#EXTINF:0,Aston Martin Music
+https://varachack.github.io/Varachack/MP3s/Aston%20Martin%20Music.mp3
+#EXTINF:0,At Your Best (You Are Love)
+https://varachack.github.io/Varachack/MP3s/At%20Your%20Best%20(You%20Are%20Love).mp3
+#EXTINF:0,Automatic (The Bonfyre)
+https://varachack.github.io/Varachack/MP3s/Automatic%20(The%20Bonfyre).mp3
+#EXTINF:0,Automatic (The Pointer Sisters)
+https://varachack.github.io/Varachack/MP3s/Automatic.mp3
+#EXTINF:0,Automatic (The Pointer Sisters) (Remix)
+https://varachack.github.io/Varachack/MP3s/Automatic%20(Remix).mp3
+#EXTINF:0,Baby
+https://varachack.github.io/Varachack/MP3s/Baby.mp3
+#EXTINF:0,Baby Boy
+https://varachack.github.io/Varachack/MP3s/Baby%20Boy.mp3
+#EXTINF:0,Baby I Love Your Way
+https://varachack.github.io/Varachack/MP3s/Baby,%20I%20Love%20Your%20Way.mp3
+#EXTINF:0,Baby Love (Annie Philippe)
+https://varachack.github.io/Varachack/MP3s/Baby%20Love..mp3
+#EXTINF:0,Baby Love (Early Version) (The Supremes)
+https://varachack.github.io/Varachack/MP3s/Baby%20Love%20(Early%20Version).mp3
+#EXTINF:0,Baby Love (The Supremes)
+https://varachack.github.io/Varachack/MP3s/Baby%20Love.mp3
+#EXTINF:0,Back And Forth
+https://varachack.github.io/Varachack/MP3s/Back%20And%20Forth.mp3
+#EXTINF:0,Back In My Arms Again
+https://varachack.github.io/Varachack/MP3s/Back%20in%20My%20Arms%20Again.mp3
+#EXTINF:0,Back In The Day
+https://varachack.github.io/Varachack/MP3s/Back%20In%20The%20Day.mp3
+#EXTINF:0,Back To Life (However Do You Want Me)
+https://varachack.github.io/Varachack/MP3s/Back%20To%20Life%20(However%20Do%20You%20Want%20Me).mp3
+#EXTINF:0,Bad
+https://varachack.github.io/Varachack/MP3s/Bad%20(2012%20Remaster).mp3
+#EXTINF:0,Bad Guy
+https://varachack.github.io/Varachack/MP3s/Bad%20Guy.mp3
+#EXTINF:0,Bag Lady
+https://varachack.github.io/Varachack/MP3s/Bag%20Lady%20[Album%20Version].mp3
+#EXTINF:0,Band of Gold
+https://varachack.github.io/Varachack/MP3s/Band%20of%20Gold.mp3
+#EXTINF:0,Barely Breathing
+https://varachack.github.io/Varachack/MP3s/Barely%20Breathing.mp3
+#EXTINF:0,Beat It Up
+https://varachack.github.io/Varachack/MP3s/Beat%20It%20Up.mp3
+#EXTINF:0,Beautiful Day
+https://varachack.github.io/Varachack/MP3s/Beautiful%20Day.mp3
+#EXTINF:0,Before You Walk Out Of My Life
+https://varachack.github.io/Varachack/MP3s/Before%20You%20Walk%20Out%20of%20My%20Life.mp3
+#EXTINF:0,Believer
+https://varachack.github.io/Varachack/MP3s/Believer.mp3
+#EXTINF:0,Better
+https://varachack.github.io/Varachack/MP3s/Better.mp3
+#EXTINF:0,Big Decisions
+https://varachack.github.io/Varachack/MP3s/Big%20Decisions.mp3
+#EXTINF:0,Big Poppa
+https://varachack.github.io/Varachack/MP3s/Big%20Poppa.mp3
+#EXTINF:0,Bills, Bills, Bills
+https://varachack.github.io/Varachack/MP3s/Bills,%20Bills,%20Bills.mp3
+#EXTINF:0,Birthday Minus 1
+https://varachack.github.io/Varachack/MP3s/Birthday%20Minus%201.mp3
+#EXTINF:0,Bitch Better Have My Money
+https://varachack.github.io/Varachack/MP3s/Bitch%20Better%20Have%20My%20Money.mp3
+#EXTINF:0,Black Betty
+https://varachack.github.io/Varachack/MP3s/Black%20Betty.mp3
+#EXTINF:0,Black Horse & The Cherry Tree
+https://varachack.github.io/Varachack/MP3s/Black%20Horse%20&%20The%20Cherry%20Tree.mp3
+#EXTINF:0,Blinding Lights
+https://varachack.github.io/Varachack/MP3s/Blinding%20Lights.mp3
+#EXTINF:0,Blue Bayou
+https://varachack.github.io/Varachack/MP3s/Blue%20Bayou.mp3
+#EXTINF:0,Body 2 Body
+https://varachack.github.io/Varachack/MP3s/Body%202%20Body.mp3
+#EXTINF:0,Boo'd Up
+https://varachack.github.io/Varachack/MP3s/Boo'd%20Up.mp3
+#EXTINF:0,Bottoms Up
+https://varachack.github.io/Varachack/MP3s/Bottoms%20Up.mp3
+#EXTINF:0,Boulevard Of Broken Dreams
+https://varachack.github.io/Varachack/MP3s/Boulevard%20of%20Broken%20Dreams.mp3
+#EXTINF:0,Breathe
+https://varachack.github.io/Varachack/MP3s/Breathe.mp3
+#EXTINF:0,Broken Clocks
+https://varachack.github.io/Varachack/MP3s/Broken%20Clocks.mp3
+#EXTINF:0,Bus Stop
+https://varachack.github.io/Varachack/MP3s/Bus%20Stop%20(Remastered).mp3
+#EXTINF:0,C.O.D. (I'll Deliver)
+https://varachack.github.io/Varachack/MP3s/C.O.D.%20(I'll%20Deliver).mp3
+#EXTINF:0,California Love
+https://varachack.github.io/Varachack/MP3s/California%20Love%20(Original%20Version).mp3
+#EXTINF:0,Call Out My Name
+https://varachack.github.io/Varachack/MP3s/Call%20Out%20My%20Name.mp3
+#EXTINF:0,Can We Talk
+https://varachack.github.io/Varachack/MP3s/Can%20We%20Talk.mp3
+#EXTINF:0,Can't Be Friends
+https://varachack.github.io/Varachack/MP3s/Can't%20Be%20Friends.mp3
+#EXTINF:0,Car Wash
+https://varachack.github.io/Varachack/MP3s/Car%20Wash.mp3
+#EXTINF:0,Children's Story
+https://varachack.github.io/Varachack/MP3s/Children's%20Story.mp3
+#EXTINF:0,Circle In The Sand
+https://varachack.github.io/Varachack/MP3s/Circle%20In%20The%20Sand.mp3
+#EXTINF:0,Circles
+https://varachack.github.io/Varachack/MP3s/Circles.mp3
+#EXTINF:0,Cleanin' Out My Closet
+https://varachack.github.io/Varachack/MP3s/Cleanin'%20Out%20My%20Closet.mp3
+#EXTINF:0,Clocks
+https://varachack.github.io/Varachack/MP3s/Clocks.mp3
+#EXTINF:0,Coat Of Arms
+https://varachack.github.io/Varachack/MP3s/Coat%20of%20Arms.mp3
+#EXTINF:0,Collard Greens
+https://varachack.github.io/Varachack/MP3s/Collard%20Greens.mp3
+#EXTINF:0,Come On Eileen
+https://varachack.github.io/Varachack/MP3s/Come%20On%20Eileen.mp3
+#EXTINF:0,Comin' Home
+https://varachack.github.io/Varachack/MP3s/Comin'%20Home.mp3
+#EXTINF:0,Como La Flor
+https://varachack.github.io/Varachack/MP3s/Como%20La%20Flor.mp3
+#EXTINF:0,Complicated
+https://varachack.github.io/Varachack/MP3s/Complicated.mp3
+#EXTINF:0,Controlla
+https://varachack.github.io/Varachack/MP3s/Controlla.mp3
+#EXTINF:0,Countdown
+https://varachack.github.io/Varachack/MP3s/Countdown.mp3
+#EXTINF:0,Cranes In The Sky
+https://varachack.github.io/Varachack/MP3s/Cranes%20In%20the%20Sky.mp3
+#EXTINF:0,Crazy Train
+https://varachack.github.io/Varachack/MP3s/Crazy%20Train.mp3
+#EXTINF:0,Creep
+https://varachack.github.io/Varachack/MP3s/Creep..mp3
+#EXTINF:0,Crooked Smile
+https://varachack.github.io/Varachack/MP3s/Crooked%20Smile.mp3
+#EXTINF:0,Cupid's Chokehold
+https://varachack.github.io/Varachack/MP3s/Cupid's%20Chokehold.mp3
+#EXTINF:0,Cyberbird
+https://varachack.github.io/Varachack/MP3s/Cyberbird.mp3
+#EXTINF:0,Da Butt
+https://varachack.github.io/Varachack/MP3s/Da'%20Butt%20(From%20The%20_School%20Daze_%20Soundtrack).mp3
+#EXTINF:0,Dance In The Memories
+https://varachack.github.io/Varachack/MP3s/Dance%20In%20the%20Memories.mp3
+#EXTINF:0,Dancing In The Dark
+https://varachack.github.io/Varachack/MP3s/Dancing%20In%20the%20Dark.mp3
+#EXTINF:0,Dancing In The Street
+https://varachack.github.io/Varachack/MP3s/Dancing%20In%20The%20Street.mp3
+#EXTINF:0,Dancing Queen
+https://varachack.github.io/Varachack/MP3s/Dancing%20Queen.mp3
+#EXTINF:0,Dark Days
+https://varachack.github.io/Varachack/MP3s/Dark%20Days.mp3
+#EXTINF:0,Dead Wrong
+https://varachack.github.io/Varachack/MP3s/Dead%20Wrong.mp3
+#EXTINF:0,Deuces
+https://varachack.github.io/Varachack/MP3s/Deuces.mp3
+#EXTINF:0,Diamonds From Sierra Leone
+https://varachack.github.io/Varachack/MP3s/Diamonds%20From%20Sierra%20Leone.mp3
+#EXTINF:0,Differences
+https://varachack.github.io/Varachack/MP3s/Differences.mp3
+#EXTINF:0,Different Drum
+https://varachack.github.io/Varachack/MP3s/Different%20Drum.mp3
+#EXTINF:0,Doin' It
+https://varachack.github.io/Varachack/MP3s/Doin'%20It.mp3
+#EXTINF:0,Don't
+https://varachack.github.io/Varachack/MP3s/Don't.mp3
+#EXTINF:0,Don't Dream It's Over
+https://varachack.github.io/Varachack/MP3s/Don't%20Dream%20It's%20Over.mp3
+#EXTINF:0,Don't Give In
+https://varachack.github.io/Varachack/MP3s/Don't%20Give%20In.mp3
+#EXTINF:0,Don't Leave Home
+https://varachack.github.io/Varachack/MP3s/Don't%20Leave%20Home.mp3
+#EXTINF:0,Don't Let Go
+https://varachack.github.io/Varachack/MP3s/Don't%20Let%20Go.mp3
+#EXTINF:0,Don't Look Any Further
+https://varachack.github.io/Varachack/MP3s/Don't%20Look%20Any%20Further.mp3
+#EXTINF:0,Don't Make Me Over
+https://varachack.github.io/Varachack/MP3s/Don't%20Make%20Me%20Over.mp3
+#EXTINF:0,Don't Mean It
+https://varachack.github.io/Varachack/MP3s/Don't%20Mean%20It.mp3
+#EXTINF:0,Don't Speak
+https://varachack.github.io/Varachack/MP3s/Don't%20Speak.mp3
+#EXTINF:0,Don't Stop The Music
+https://varachack.github.io/Varachack/MP3s/Don't%20Stop%20The%20Music..mp3
+#EXTINF:0,Don't Turn Around
+https://varachack.github.io/Varachack/MP3s/Don't%20Turn%20Around.mp3
+#EXTINF:0,Don't Walk Away
+https://varachack.github.io/Varachack/MP3s/Don't%20Walk%20Away.mp3
+#EXTINF:0,Don't You Want Me
+https://varachack.github.io/Varachack/MP3s/Don't%20You%20Want%20Me.mp3
+#EXTINF:0,Doo Wop (That Thing)
+https://varachack.github.io/Varachack/MP3s/Doo%20Wop%20(That%20Thing).mp3
+#EXTINF:0,Duvet
+https://varachack.github.io/Varachack/MP3s/Duvet.mp3
+#EXTINF:0,Duvet (Acoustic)
+https://varachack.github.io/Varachack/MP3s/Duvet%20(Acoustic).mp3
+#EXTINF:0,Duvet (NezuChan)
+https://varachack.github.io/Varachack/MP3s/Duvet%20(NezuChan).mp3
+#EXTINF:0,Duvet (Otaku Bits)
+https://varachack.github.io/Varachack/MP3s/Duvet%20(Otaku%20Bits).mp3
+#EXTINF:0,Duvet (Remix)
+https://varachack.github.io/Varachack/MP3s/Duvet%20(Remix).mp3
+#EXTINF:0,Earfquake
+https://varachack.github.io/Varachack/MP3s/EARFQUAKE.mp3
+#EXTINF:0,Earned It
+https://varachack.github.io/Varachack/MP3s/Earned%20It.mp3
+#EXTINF:0,Easier
+https://varachack.github.io/Varachack/MP3s/Easier.mp3
+#EXTINF:0,Echoes
+https://varachack.github.io/Varachack/MP3s/Echoes.mp3
+#EXTINF:0,Elenore
+https://varachack.github.io/Varachack/MP3s/Elenore.mp3
+#EXTINF:0,Elvira
+https://varachack.github.io/Varachack/MP3s/Elvira.mp3
+#EXTINF:0,Empire State Of Mind
+https://varachack.github.io/Varachack/MP3s/Empire%20State%20of%20Mind.mp3
+#EXTINF:0,Enrai
+https://varachack.github.io/Varachack/MP3s/Enrai.mp3
+#EXTINF:0,Everlasting Love
+https://varachack.github.io/Varachack/MP3s/Everlasting%20Love.mp3
+#EXTINF:0,Every Generation
+https://varachack.github.io/Varachack/MP3s/Every%20Generation.mp3
+#EXTINF:0,Every Little Step
+https://varachack.github.io/Varachack/MP3s/Every%20Little%20Step.mp3
+#EXTINF:0,Every Little Thing She Does Is Magic
+https://varachack.github.io/Varachack/MP3s/Every%20Little%20Thing%20She%20Does%20Is%20Magic.mp3
+#EXTINF:0,Everybody Everybody
+https://varachack.github.io/Varachack/MP3s/Everybody%20Everybody.mp3
+#EXTINF:0,Evil Woman
+https://varachack.github.io/Varachack/MP3s/Evil%20Woman.mp3
+#EXTINF:0,Excuses
+https://varachack.github.io/Varachack/MP3s/Excuses.mp3
+#EXTINF:0,Fallin'
+https://varachack.github.io/Varachack/MP3s/Fallin'.mp3
+#EXTINF:0,Fancy
+https://varachack.github.io/Varachack/MP3s/Fancy.mp3
+#EXTINF:0,Feds Watching
+https://varachack.github.io/Varachack/MP3s/Feds%20Watching.mp3
+#EXTINF:0,Feel Good, Inc.
+https://varachack.github.io/Varachack/MP3s/Feel%20Good,%20Inc..mp3
+#EXTINF:0,Feels
+https://varachack.github.io/Varachack/MP3s/Feels.mp3
+#EXTINF:0,Fight The Power
+https://varachack.github.io/Varachack/MP3s/Fight%20The%20Power.mp3
+#EXTINF:0,Fine China
+https://varachack.github.io/Varachack/MP3s/Fine%20China.mp3
+#EXTINF:0,Finesse
+https://varachack.github.io/Varachack/MP3s/Finesse.mp3
+#EXTINF:0,First Contact
+https://varachack.github.io/Varachack/MP3s/First%20Contact.mp3
+#EXTINF:0,Flashing Lights
+https://varachack.github.io/Varachack/MP3s/Flashing%20Lights.mp3
+#EXTINF:0,Flora's Secret
+https://varachack.github.io/Varachack/MP3s/Flora's%20Secret.mp3
+#EXTINF:0,Focus
+https://varachack.github.io/Varachack/MP3s/Focus.mp3
+#EXTINF:0,Foolish
+https://varachack.github.io/Varachack/MP3s/Foolish.mp3
+#EXTINF:0,Forever And For Always (Green Version)
+https://varachack.github.io/Varachack/MP3s/Forever%20and%20For%20Always%20(Green%20Version).mp3
+#EXTINF:0,Forever And For Always (Red Version)
+https://varachack.github.io/Varachack/MP3s/Forever%20and%20For%20Always%20(Red%20Version).mp3
+#EXTINF:0,Forever Came Today
+https://varachack.github.io/Varachack/MP3s/Forever%20Came%20Today.mp3
+#EXTINF:0,Found Out About You
+https://varachack.github.io/Varachack/MP3s/Found%20Out%20About%20You.mp3
+#EXTINF:0,Fukai Mori
+https://varachack.github.io/Varachack/MP3s/Fukai%20Mori%20(%E6%B7%B1%E3%81%84%E6%A3%AE).mp3
+#EXTINF:0,Georgy Girl
+https://varachack.github.io/Varachack/MP3s/Georgy%20Girl%20(Stereo;1999%20Remastered%20Version).mp3
+#EXTINF:0,Get Me
+https://varachack.github.io/Varachack/MP3s/Get%20Me.mp3
+#EXTINF:0,Get There
+https://varachack.github.io/Varachack/MP3s/Get%20There.mp3
+#EXTINF:0,Girl
+https://varachack.github.io/Varachack/MP3s/Girl.mp3
+#EXTINF:0,Girls Just Want To Have Fun
+https://varachack.github.io/Varachack/MP3s/Girls%20Just%20Want%20to%20Have%20Fun.mp3
+#EXTINF:0,Girls Like You
+https://varachack.github.io/Varachack/MP3s/Girls%20Like%20You.mp3
+#EXTINF:0,Girls, Girls, Girls
+https://varachack.github.io/Varachack/MP3s/Girls,%20Girls,%20Girls.mp3
+#EXTINF:0,Give It To Me Baby
+https://varachack.github.io/Varachack/MP3s/Give%20It%20To%20Me%20Baby.mp3
+#EXTINF:0,Go Your Own Way
+https://varachack.github.io/Varachack/MP3s/Go%20Your%20Own%20Way.mp3
+#EXTINF:0,God's Plan
+https://varachack.github.io/Varachack/MP3s/God's%20Plan.mp3
+#EXTINF:0,Going Bad
+https://varachack.github.io/Varachack/MP3s/Going%20Bad%20(feat.%20Drake).mp3
+#EXTINF:0,Gold Digger
+https://varachack.github.io/Varachack/MP3s/Gold%20Digger.mp3
+#EXTINF:0,Golden
+https://varachack.github.io/Varachack/MP3s/Golden.mp3
+#EXTINF:0,Gone
+https://varachack.github.io/Varachack/MP3s/Gone.mp3
+#EXTINF:0,Good Life
+https://varachack.github.io/Varachack/MP3s/Good%20Life..mp3
+#EXTINF:0,Got To Be Real
+https://varachack.github.io/Varachack/MP3s/Got%20to%20Be%20Real.mp3
+#EXTINF:0,Groove Me
+https://varachack.github.io/Varachack/MP3s/Groove%20Me.mp3
+#EXTINF:0,HUMBLE.
+https://varachack.github.io/Varachack/MP3s/HUMBLE..mp3
+#EXTINF:0,Hand In My Pocket
+https://varachack.github.io/Varachack/MP3s/Hand%20In%20My%20Pocket.mp3
+#EXTINF:0,Hangin' On A String
+https://varachack.github.io/Varachack/MP3s/Hangin'%20On%20A%20String.mp3
+#EXTINF:0,Happy Together
+https://varachack.github.io/Varachack/MP3s/Happy%20Together.mp3
+#EXTINF:0,Hard Knock Life
+https://varachack.github.io/Varachack/MP3s/Hard%20Knock%20Life.mp3
+#EXTINF:0,Head Over Feet
+https://varachack.github.io/Varachack/MP3s/Head%20Over%20Feet.mp3
+#EXTINF:0,Head Over Heels
+https://varachack.github.io/Varachack/MP3s/Head%20Over%20Heels.mp3
+#EXTINF:0,Heart
+https://varachack.github.io/Varachack/MP3s/Heart.mp3
+#EXTINF:0,Heart Of Glass
+https://varachack.github.io/Varachack/MP3s/Heart%20Of%20Glass.mp3
+#EXTINF:0,Heatwave
+https://varachack.github.io/Varachack/MP3s/Heatwave.mp3
+#EXTINF:0,Hi No Ataru Sakamichi
+https://varachack.github.io/Varachack/MP3s/Hi%20no%20Ataru%20Sakamichi%20(%E9%99%BD%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8B%E5%9D%82%E9%81%93).mp3
+#EXTINF:0,Higher Ground
+https://varachack.github.io/Varachack/MP3s/Higher%20Ground.mp3
+#EXTINF:0,Hiiragi
+https://varachack.github.io/Varachack/MP3s/Hiiragi%20(%E6%9F%8A).mp3
+#EXTINF:0,Holding You Down (Going In Circles)
+https://varachack.github.io/Varachack/MP3s/Holding%20You%20Down%20(Going%20In%20Circles).mp3
+#EXTINF:0,Hollywood
+https://varachack.github.io/Varachack/MP3s/Hollywood.mp3
+#EXTINF:0,Homecoming
+https://varachack.github.io/Varachack/MP3s/Homecoming.mp3
+#EXTINF:0,Honey
+https://varachack.github.io/Varachack/MP3s/Honey.mp3
+#EXTINF:0,Hotline Bling
+https://varachack.github.io/Varachack/MP3s/Hotline%20Bling.mp3
+#EXTINF:0,Houki Boshi
+https://varachack.github.io/Varachack/MP3s/Houki%20Boshi%20(%E3%81%BB%E3%81%86%E3%81%8D%E6%98%9F).mp3
+#EXTINF:0,How Do I Live (Without You)
+https://varachack.github.io/Varachack/MP3s/How%20Do%20I%20Live.mp3
+#EXTINF:0,How Many Drinks
+https://varachack.github.io/Varachack/MP3s/How%20Many%20Drinks.mp3
+#EXTINF:0,Hypnotize
+https://varachack.github.io/Varachack/MP3s/Hypnotize.mp3
+#EXTINF:0,I Can't Help Myself
+https://varachack.github.io/Varachack/MP3s/I%20Can't%20Help%20Myself..mp3
+#EXTINF:0,I Don't Want To Wait
+https://varachack.github.io/Varachack/MP3s/I%20Don't%20Want%20to%20Wait.mp3
+#EXTINF:0,I Got You Babe
+https://varachack.github.io/Varachack/MP3s/I%20Got%20You%20Babe.mp3
+#EXTINF:0,I Heard It Through The Grapevine
+https://varachack.github.io/Varachack/MP3s/I%20Heard%20it%20Through%20the%20Grapevine.mp3
+#EXTINF:0,I Hope You Dance
+https://varachack.github.io/Varachack/MP3s/I%20Hope%20You%20Dance.mp3
+#EXTINF:0,I Hope You Dance (Radio Edit)
+https://varachack.github.io/Varachack/MP3s/I%20Hope%20You%20Dance%20(Radio%20Edit).mp3
+#EXTINF:0,I Know
+https://varachack.github.io/Varachack/MP3s/I%20Know.mp3
+#EXTINF:0,I Like It
+https://varachack.github.io/Varachack/MP3s/I%20Like%20It.mp3
+#EXTINF:0,I Need Some Money
+https://varachack.github.io/Varachack/MP3s/I%20Need%20Some%20Money.mp3
+#EXTINF:0,I Shot The Sheriff
+https://varachack.github.io/Varachack/MP3s/I%20Shot%20The%20Sheriff.mp3
+#EXTINF:0,I Still Haven't Found What I'm Looking For
+https://varachack.github.io/Varachack/MP3s/I%20Still%20Haven't%20Found%20What%20I'm%20Looking%20For.mp3
+#EXTINF:0,I Wanna Dance With Somebody (Who Loves Me)
+https://varachack.github.io/Varachack/MP3s/I%20Wanna%20Dance%20with%20Somebody%20(Who%20Loves%20Me).mp3
+#EXTINF:0,I Want To Know What Love Is
+https://varachack.github.io/Varachack/MP3s/I%20Want%20to%20Know%20What%20Love%20Is.mp3
+#EXTINF:0,I Want You
+https://varachack.github.io/Varachack/MP3s/I%20Want%20You.mp3
+#EXTINF:0,I Wonder If I Take You Home
+https://varachack.github.io/Varachack/MP3s/I%20Wonder%20If%20I%20Take%20You%20Home.mp3
+#EXTINF:0,I'll Be Around
+https://varachack.github.io/Varachack/MP3s/I'll%20Be%20Around.mp3
+#EXTINF:0,I'll Stand By You
+https://varachack.github.io/Varachack/MP3s/I'll%20Stand%20By%20You.mp3
+#EXTINF:0,I'll Turn To Stone
+https://varachack.github.io/Varachack/MP3s/I'll%20Turn%20To%20Stone.mp3
+#EXTINF:0,I'm Every Woman
+https://varachack.github.io/Varachack/MP3s/I'm%20Every%20Woman.mp3
+#EXTINF:0,I'm Every Woman (Remix 2)
+https://varachack.github.io/Varachack/MP3s/I'm%20Every%20Woman%20(Remix).mp3
+#EXTINF:0,I'm Every Woman (Remix)
+https://varachack.github.io/Varachack/MP3s/Chaka%20Khan%20ft.%20DJ%20Meme%20-%20I'm%20Every%20Woman.mp3
+#EXTINF:0,I'm Gonna Be (500 Miles)
+https://varachack.github.io/Varachack/MP3s/I'm%20Gonna%20Be%20(500%20Miles).mp3
+#EXTINF:0,I'm On One
+https://varachack.github.io/Varachack/MP3s/I'm%20On%20One.mp3
+#EXTINF:0,I'm So Into You
+https://varachack.github.io/Varachack/MP3s/I'm%20So%20Into%20You.mp3
+#EXTINF:0,I'm Still In Love With You
+https://varachack.github.io/Varachack/MP3s/I'm%20Still%20in%20Love%20with%20You.mp3
+#EXTINF:0,I've Got To Use My Imagination
+https://varachack.github.io/Varachack/MP3s/I've%20Got%20to%20Use%20My%20Imagination.mp3
+#EXTINF:0,Ice
+https://varachack.github.io/Varachack/MP3s/Ice.mp3
+#EXTINF:0,Ice Monster
+https://varachack.github.io/Varachack/MP3s/Ice%20Monster.mp3
+#EXTINF:0,If I Were Your Woman
+https://varachack.github.io/Varachack/MP3s/If%20I%20Were%20Your%20Woman.mp3
+#EXTINF:0,If Only You Knew (Keke Wyatt)
+https://varachack.github.io/Varachack/MP3s/If%20Only%20You%20Knew.mp3
+#EXTINF:0,If Only You Knew (Patti LaBelle)
+https://varachack.github.io/Varachack/MP3s/If%20Only%20You%20Knew..mp3
+#EXTINF:0,In & Out
+https://varachack.github.io/Varachack/MP3s/In%20&%20Out.mp3
+#EXTINF:0,In Da Club
+https://varachack.github.io/Varachack/MP3s/In%20Da%20Club.mp3
+#EXTINF:0,In My Feelings
+https://varachack.github.io/Varachack/MP3s/In%20My%20Feelings.mp3
+#EXTINF:0,In The Air Tonight
+https://varachack.github.io/Varachack/MP3s/In%20The%20Air%20Tonight.mp3
+#EXTINF:0,In Those Jeans
+https://varachack.github.io/Varachack/MP3s/In%20Those%20Jeans.mp3
+#EXTINF:0,Independent Women (Part 1)
+https://varachack.github.io/Varachack/MP3s/Independent%20Women%20Part%201.mp3
+#EXTINF:0,Inner Universe
+https://varachack.github.io/Varachack/MP3s/Inner%20Universe.mp3
+#EXTINF:0,Ironic
+https://varachack.github.io/Varachack/MP3s/Ironic.mp3
+#EXTINF:0,It Takes Two
+https://varachack.github.io/Varachack/MP3s/It%20Takes%20Two.mp3
+#EXTINF:0,It Was A Good Day
+https://varachack.github.io/Varachack/MP3s/It%20Was%20A%20Good%20Day.mp3
+#EXTINF:0,It's A Shame
+https://varachack.github.io/Varachack/MP3s/It's%20A%20Shame.mp3
+#EXTINF:0,It's Not Right But It's Okay
+https://varachack.github.io/Varachack/MP3s/It's%20Not%20Right%20But%20It's%20Okay.mp3
+#EXTINF:0,It's The Same Old Song
+https://varachack.github.io/Varachack/MP3s/It's%20The%20Same%20Old%20Song.mp3
+#EXTINF:0,JAPAN
+https://varachack.github.io/Varachack/MP3s/JAPAN.mp3
+#EXTINF:0,Jealous
+https://varachack.github.io/Varachack/MP3s/Jealous.mp3
+#EXTINF:0,Jenina
+https://varachack.github.io/Varachack/MP3s/Jenina.mp3
+#EXTINF:0,Jimmy Mack
+https://varachack.github.io/Varachack/MP3s/Jimmy%20Mack.mp3
+#EXTINF:0,Jolene
+https://varachack.github.io/Varachack/MP3s/Jolene.mp3
+#EXTINF:0,Juicy
+https://varachack.github.io/Varachack/MP3s/Juicy.mp3
+#EXTINF:0,Jump Around
+https://varachack.github.io/Varachack/MP3s/Jump%20Around.mp3
+#EXTINF:0,Jump In The Line
+https://varachack.github.io/Varachack/MP3s/Jump%20in%20the%20Line.mp3
+#EXTINF:0,Just Fine
+https://varachack.github.io/Varachack/MP3s/Just%20Fine.mp3
+#EXTINF:0,Just Got Paid
+https://varachack.github.io/Varachack/MP3s/Just%20Got%20Paid.mp3
+#EXTINF:0,Just Us
+https://varachack.github.io/Varachack/MP3s/Just%20Us.mp3
+#EXTINF:0,Karma
+https://varachack.github.io/Varachack/MP3s/Karma.mp3
+#EXTINF:0,Keep On Moving
+https://varachack.github.io/Varachack/MP3s/Keep%20On%20Moving.mp3
+#EXTINF:0,Keep On Walkin'
+https://varachack.github.io/Varachack/MP3s/Keep%20On%20Walkin'.mp3
+#EXTINF:0,Kiss Me
+https://varachack.github.io/Varachack/MP3s/Kiss%20Me.mp3
+#EXTINF:0,Kissin' On My Tattoos
+https://varachack.github.io/Varachack/MP3s/Kissin'%20On%20My%20Tattoos.mp3
+#EXTINF:0,Knights
+https://varachack.github.io/Varachack/MP3s/Knights.mp3
+#EXTINF:0,LOVE.
+https://varachack.github.io/Varachack/MP3s/LOVE..mp3
+#EXTINF:0,Lady (Hear Me Tonight)
+https://varachack.github.io/Varachack/MP3s/Lady%20(Hear%20Me%20Tonight).mp3
+#EXTINF:0,Lady Marmalade
+https://varachack.github.io/Varachack/MP3s/Lady%20Marmalade.mp3
+#EXTINF:0,Landslide
+https://varachack.github.io/Varachack/MP3s/Landslide.mp3
+#EXTINF:0,Lay It Down
+https://varachack.github.io/Varachack/MP3s/Lay%20It%20Down.mp3
+#EXTINF:0,Lazy Days
+https://varachack.github.io/Varachack/MP3s/Lazy%20Days.mp3
+#EXTINF:0,Leave Me Alone
+https://varachack.github.io/Varachack/MP3s/Leave%20Me%20Alone.mp3
+#EXTINF:0,Lemon (Remix)
+https://varachack.github.io/Varachack/MP3s/Lemon%20(Remix).mp3
+#EXTINF:0,Let It Burn
+https://varachack.github.io/Varachack/MP3s/Let%20It%20Burn.mp3
+#EXTINF:0,Let Me Go The Right Way
+https://varachack.github.io/Varachack/MP3s/Let%20Me%20Go%20The%20Right%20Way.mp3
+#EXTINF:0,Let Me In
+https://varachack.github.io/Varachack/MP3s/Let%20Me%20In.mp3
+#EXTINF:0,Let's Stay Together
+https://varachack.github.io/Varachack/MP3s/Let's%20Stay%20Together.mp3
+#EXTINF:0,Life
+https://varachack.github.io/Varachack/MP3s/Life.mp3
+#EXTINF:0,Life's Like A Boat
+https://varachack.github.io/Varachack/MP3s/Life's%20Like%20a%20Boat.mp3
+#EXTINF:0,Like You
+https://varachack.github.io/Varachack/MP3s/Like%20You.mp3
+#EXTINF:0,Linger
+https://varachack.github.io/Varachack/MP3s/Linger.mp3
+#EXTINF:0,Liquor
+https://varachack.github.io/Varachack/MP3s/Liquor.mp3
+#EXTINF:0,Long As I Live
+https://varachack.github.io/Varachack/MP3s/Long%20As%20I%20Live.mp3
+#EXTINF:0,Lose Yourself
+https://varachack.github.io/Varachack/MP3s/Lose%20Yourself.mp3
+#EXTINF:0,Lost In Yesterday
+https://varachack.github.io/Varachack/MP3s/Lost%20In%20Yesterday.mp3
+#EXTINF:0,Love Affair
+https://varachack.github.io/Varachack/MP3s/Love%20Affair.mp3
+#EXTINF:0,Love Come Down
+https://varachack.github.io/Varachack/MP3s/Love%20Come%20Down.mp3
+#EXTINF:0,Love Don't Live Here Anymore (Faith Evans)
+https://varachack.github.io/Varachack/MP3s/Love%20Don't%20Live%20Here%20Anymore.mp3
+#EXTINF:0,Love Is A Battlefield
+https://varachack.github.io/Varachack/MP3s/Love%20Is%20A%20Battlefield.mp3
+#EXTINF:0,Love Is Here And Now You're Gone
+https://varachack.github.io/Varachack/MP3s/Love%20Is%20Here%20and%20Now%20You're%20Gone.mp3
+#EXTINF:0,Love Lies
+https://varachack.github.io/Varachack/MP3s/Love%20Lies.mp3
+#EXTINF:0,Love Like This
+https://varachack.github.io/Varachack/MP3s/Love%20Like%20This.mp3
+#EXTINF:0,Love Me Right
+https://varachack.github.io/Varachack/MP3s/Love%20Me%20Right.mp3
+#EXTINF:0,Love More
+https://varachack.github.io/Varachack/MP3s/Love%20More.mp3
+#EXTINF:0,Love, Need And Want You
+https://varachack.github.io/Varachack/MP3s/Love,%20Need%20and%20Want%20You.mp3
+#EXTINF:0,Lovely Day
+https://varachack.github.io/Varachack/MP3s/Lovely%20Day..mp3
+#EXTINF:0,Low Rider
+https://varachack.github.io/Varachack/MP3s/Low%20Rider.mp3
+#EXTINF:0,Loyal (Chris Brown)
+https://varachack.github.io/Varachack/MP3s/Loyal.mp3
+#EXTINF:0,Loyal (PartyNextDoor)
+https://varachack.github.io/Varachack/MP3s/Loyal (feat. Drake).mp3
+#EXTINF:0,MIDDLE CHILD
+https://varachack.github.io/Varachack/MP3s/MIDDLE%20CHILD.mp3
+#EXTINF:0,Main Chick
+https://varachack.github.io/Varachack/MP3s/Main%20Chick.mp3
+#EXTINF:0,Make Me Proud
+https://varachack.github.io/Varachack/MP3s/Make%20Me%20Proud.mp3
+#EXTINF:0,Mamma Mia
+https://varachack.github.io/Varachack/MP3s/Mamma%20Mia.mp3
+#EXTINF:0,Man In The Mirror
+https://varachack.github.io/Varachack/MP3s/Man%20in%20the%20Mirror.mp3
+#EXTINF:0,Man! I Feel Like A Woman
+https://varachack.github.io/Varachack/MP3s/Man!%20I%20Feel%20Like%20a%20Woman.mp3
+#EXTINF:0,Maneater
+https://varachack.github.io/Varachack/MP3s/Maneater.mp3
+#EXTINF:0,Marlboro Nights
+https://varachack.github.io/Varachack/MP3s/Marlboro%20Nights.mp3
+#EXTINF:0,Mary Jane (All Night Long)
+https://varachack.github.io/Varachack/MP3s/Mary%20Jane%20(All%20Night%20Long).mp3
+#EXTINF:0,Material Girl
+https://varachack.github.io/Varachack/MP3s/Material%20Girl.mp3
+#EXTINF:0,Meet Me Halfway
+https://varachack.github.io/Varachack/MP3s/Meet%20Me%20Halfway.mp3
+#EXTINF:0,Miss Me
+https://varachack.github.io/Varachack/MP3s/Miss%20Me.mp3
+#EXTINF:0,Moments Like This
+https://varachack.github.io/Varachack/MP3s/Moments%20Like%20This.mp3
+#EXTINF:0,Money
+https://varachack.github.io/Varachack/MP3s/Money.mp3
+#EXTINF:0,Money (That's What I Want)
+https://varachack.github.io/Varachack/MP3s/Money%20(That's%20What%20I%20Want).mp3
+#EXTINF:0,Money Can't Buy
+https://varachack.github.io/Varachack/MP3s/Money%20Can't%20Buy.mp3
+#EXTINF:0,More Than A Woman
+https://varachack.github.io/Varachack/MP3s/More%20Than%20A%20Woman.mp3
+#EXTINF:0,More, More, More
+https://varachack.github.io/Varachack/MP3s/More,%20More,%20More.mp3
+#EXTINF:0,Motivation
+https://varachack.github.io/Varachack/MP3s/Motivation.mp3
+#EXTINF:0,Move Along
+https://varachack.github.io/Varachack/MP3s/Move%20Along.mp3
+#EXTINF:0,Move That Dope
+https://varachack.github.io/Varachack/MP3s/Move%20That%20Dope.mp3
+#EXTINF:0,Mr. Big Stuff
+https://varachack.github.io/Varachack/MP3s/Mr.%20Big%20Stuff.mp3
+#EXTINF:0,Ms. Fat Booty
+https://varachack.github.io/Varachack/MP3s/Ms.%20Fat%20Booty.mp3
+#EXTINF:0,Ms. Jackson
+https://varachack.github.io/Varachack/MP3s/Ms.%20Jackson.mp3
+#EXTINF:0,My Love
+https://varachack.github.io/Varachack/MP3s/My%20Love.mp3
+#EXTINF:0,My World Is Empty Without You
+https://varachack.github.io/Varachack/MP3s/My%20World%20Is%20Empty%20Without%20You%20[Alternate].mp3
+#EXTINF:0,N*ggas In Paris
+https://varachack.github.io/Varachack/MP3s/Niggas%20In%20Paris.mp3
+#EXTINF:0,Name
+https://varachack.github.io/Varachack/MP3s/Name.mp3
+#EXTINF:0,Neo Universe
+https://varachack.github.io/Varachack/MP3s/Neo%20Universe.mp3
+#EXTINF:0,Never Really Over
+https://varachack.github.io/Varachack/MP3s/Never%20Really%20Over.mp3
+#EXTINF:0,New Attitude
+https://varachack.github.io/Varachack/MP3s/New%20Attitude%20(Remix).mp3
+#EXTINF:0,New Flame
+https://varachack.github.io/Varachack/MP3s/New%20Flame.mp3
+#EXTINF:0,Nice For What
+https://varachack.github.io/Varachack/MP3s/Nice%20For%20What.mp3
+#EXTINF:0,No More Drama
+https://varachack.github.io/Varachack/MP3s/No%20More%20Drama.mp3
+#EXTINF:0,No Role Modelz
+https://varachack.github.io/Varachack/MP3s/No%20Role%20Modelz.mp3
+#EXTINF:0,No Scrubs
+https://varachack.github.io/Varachack/MP3s/No%20Scrubs.mp3
+#EXTINF:0,Nobody's Perfect
+https://varachack.github.io/Varachack/MP3s/Nobody's%20Perfect.mp3
+#EXTINF:0,Nonstop
+https://varachack.github.io/Varachack/MP3s/Nonstop.mp3
+#EXTINF:0,Nothing In This World
+https://varachack.github.io/Varachack/MP3s/Nothing%20in%20This%20World.mp3
+#EXTINF:0,Numb
+https://varachack.github.io/Varachack/MP3s/Numb.mp3
+#EXTINF:0,Oh Sheila
+https://varachack.github.io/Varachack/MP3s/Oh%20Sheila.mp3
+#EXTINF:0,Oh Yoko!
+https://varachack.github.io/Varachack/MP3s/Oh%20Yoko!.mp3
+#EXTINF:0,Oh, Peanut
+https://varachack.github.io/Varachack/MP3s/Oh,%20Peanut.mp3
+#EXTINF:0,Oh, Pretty Woman
+https://varachack.github.io/Varachack/MP3s/Oh,%20Pretty%20Woman.mp3
+#EXTINF:0,On And On
+https://varachack.github.io/Varachack/MP3s/On%20and%20On.mp3
+#EXTINF:0,On Broadway
+https://varachack.github.io/Varachack/MP3s/On%20Broadway.mp3
+#EXTINF:0,On My Level
+https://varachack.github.io/Varachack/MP3s/On%20My%20Level.mp3
+#EXTINF:0,One Dance
+https://varachack.github.io/Varachack/MP3s/One%20Dance.mp3
+#EXTINF:0,One Way Or Another
+https://varachack.github.io/Varachack/MP3s/One%20Way%20Or%20Another.mp3
+#EXTINF:0,Only If
+https://varachack.github.io/Varachack/MP3s/Only%20If.mp3
+#EXTINF:0,Only Time
+https://varachack.github.io/Varachack/MP3s/Only%20Time.mp3
+#EXTINF:0,Optimistic
+https://varachack.github.io/Varachack/MP3s/Optimistic.mp3
+#EXTINF:0,Other Side Of The Game
+https://varachack.github.io/Varachack/MP3s/Other%20Side%20of%20The%20Game.mp3
+#EXTINF:0,Our House
+https://varachack.github.io/Varachack/MP3s/Our%20House.mp3
+#EXTINF:0,Outstanding
+https://varachack.github.io/Varachack/MP3s/Outstanding.mp3
+#EXTINF:0,POWER
+https://varachack.github.io/Varachack/MP3s/POWER.mp3
+#EXTINF:0,Part II (On The Run)
+https://varachack.github.io/Varachack/MP3s/Part%20II%20(On%20The%20Run).mp3
+#EXTINF:0,Part-Time Lover
+https://varachack.github.io/Varachack/MP3s/Part%20Time%20Lover.mp3
+#EXTINF:0,Party
+https://varachack.github.io/Varachack/MP3s/Party.mp3
+#EXTINF:0,Passion
+https://varachack.github.io/Varachack/MP3s/Utada%20Hikaru%20-%20Passion.mp3
+#EXTINF:0,Plastic Love
+https://varachack.github.io/Varachack/MP3s/Plastic%20Love.mp3
+#EXTINF:0,Please Don't Leave Me
+https://varachack.github.io/Varachack/MP3s/Please%20Don't%20Leave%20Me.mp3
+#EXTINF:0,Please Mr. Postman
+https://varachack.github.io/Varachack/MP3s/Please%20Mr.%20Postman.mp3
+#EXTINF:0,Please Pardon Me
+https://varachack.github.io/Varachack/MP3s/Please%20Pardon%20Me.mp3
+#EXTINF:0,Poetic Justice
+https://varachack.github.io/Varachack/MP3s/Poetic%20Justice.mp3
+#EXTINF:0,Poison
+https://varachack.github.io/Varachack/MP3s/Poison.mp3
+#EXTINF:0,Pony
+https://varachack.github.io/Varachack/MP3s/Pony.mp3
+#EXTINF:0,Pop That
+https://varachack.github.io/Varachack/MP3s/Pop%20That.mp3
+#EXTINF:0,Post To Be
+https://varachack.github.io/Varachack/MP3s/Post%20to%20Be.mp3
+#EXTINF:0,Pour It Up
+https://varachack.github.io/Varachack/MP3s/Pour%20It%20Up.mp3
+#EXTINF:0,Power Is Power
+https://varachack.github.io/Varachack/MP3s/Power%20is%20Power.mp3
+#EXTINF:0,Power Trip
+https://varachack.github.io/Varachack/MP3s/Power%20Trip.mp3
+#EXTINF:0,Powerglide
+https://varachack.github.io/Varachack/MP3s/Powerglide.mp3
+#EXTINF:0,Pray For Me
+https://varachack.github.io/Varachack/MP3s/Pray%20For%20Me.mp3
+#EXTINF:0,Private Dancer
+https://varachack.github.io/Varachack/MP3s/Private%20Dancer.mp3
+#EXTINF:0,Prom
+https://varachack.github.io/Varachack/MP3s/Prom.mp3
+#EXTINF:0,Push It
+https://varachack.github.io/Varachack/MP3s/Push%20It.mp3
+#EXTINF:0,Push Me Away
+https://varachack.github.io/Varachack/MP3s/Push%20Me%20Away.mp3
+#EXTINF:0,Rakuen
+https://varachack.github.io/Varachack/MP3s/Rakuen%20(%E6%A5%BD%E5%9C%92).mp3
+#EXTINF:0,Reach Out, I'll Be There
+https://varachack.github.io/Varachack/MP3s/Reach%20Out,%20I'll%20Be%20There.mp3
+#EXTINF:0,Real Love
+https://varachack.github.io/Varachack/MP3s/Real%20Love.mp3
+#EXTINF:0,Reflections
+https://varachack.github.io/Varachack/MP3s/Reflections.mp3
+#EXTINF:0,Regulate
+https://varachack.github.io/Varachack/MP3s/Regulate.mp3
+#EXTINF:0,Rehab
+https://varachack.github.io/Varachack/MP3s/Rehab.mp3
+#EXTINF:0,Remind Me
+https://varachack.github.io/Varachack/MP3s/Remind%20Me.mp3
+#EXTINF:0,Rhiannon
+https://varachack.github.io/Varachack/MP3s/Rhiannon.mp3
+#EXTINF:0,Rich
+https://varachack.github.io/Varachack/MP3s/Rich.mp3
+#EXTINF:0,Rich As Fuck
+https://varachack.github.io/Varachack/MP3s/Rich%20As%20Fuck.mp3
+#EXTINF:0,Ring My Bell
+https://varachack.github.io/Varachack/MP3s/Ring%20My%20Bell.mp3
+#EXTINF:0,Rise
+https://varachack.github.io/Varachack/MP3s/Rise.mp3
+#EXTINF:0,River Deep, Mountain High
+https://varachack.github.io/Varachack/MP3s/River%20Deep,%20Mountain%20High.mp3
+#EXTINF:0,Roam
+https://varachack.github.io/Varachack/MP3s/Roam.mp3
+#EXTINF:0,Rock The Boat
+https://varachack.github.io/Varachack/MP3s/Rock%20The%20Boat.mp3
+#EXTINF:0,Rock Your Baby
+https://varachack.github.io/Varachack/MP3s/Rock%20Your%20Baby.mp3
+#EXTINF:0,Rolling In The Deep
+https://varachack.github.io/Varachack/MP3s/Rolling%20In%20the%20Deep.mp3
+#EXTINF:0,Rosebud
+https://varachack.github.io/Varachack/MP3s/Rosebud.mp3
+#EXTINF:0,Rude
+https://varachack.github.io/Varachack/MP3s/Rude.mp3
+#EXTINF:0,SICKO MODE
+https://varachack.github.io/Varachack/MP3s/SICKO%20MODE.mp3
+#EXTINF:0,Sail
+https://varachack.github.io/Varachack/MP3s/Sail.mp3
+#EXTINF:0,Saturday Night At The Movies
+https://varachack.github.io/Varachack/MP3s/Saturday%20Night%20at%20the%20Movies.mp3
+#EXTINF:0,Save Me
+https://varachack.github.io/Varachack/MP3s/Save%20Me.mp3
+#EXTINF:0,Say Aah
+https://varachack.github.io/Varachack/MP3s/Say%20Aah.mp3
+#EXTINF:0,Say It
+https://varachack.github.io/Varachack/MP3s/Say%20It.mp3
+#EXTINF:0,Say It Right
+https://varachack.github.io/Varachack/MP3s/Say%20It%20Right.mp3
+#EXTINF:0,Say My Name
+https://varachack.github.io/Varachack/MP3s/Say%20My%20Name.mp3
+#EXTINF:0,Sayonara Bye Bye
+https://varachack.github.io/Varachack/MP3s/Matsuko%20Matawari%20-%20Sayonara%20Bye%20Bye.mp3
+#EXTINF:0,Seasons (Waiting On You)
+https://varachack.github.io/Varachack/MP3s/Seasons%20(Waiting%20On%20You).mp3
+#EXTINF:0,Selfish
+https://varachack.github.io/Varachack/MP3s/Selfish.mp3
+#EXTINF:0,Sensitivity
+https://varachack.github.io/Varachack/MP3s/Sensitivity.mp3
+#EXTINF:0,Seven Nation Army
+https://varachack.github.io/Varachack/MP3s/Seven%20Nation%20Army.mp3
+#EXTINF:0,She Drives Me Crazy
+https://varachack.github.io/Varachack/MP3s/She%20Drives%20Me%20Crazy.mp3
+#EXTINF:0,She Works Hard For The Money
+https://varachack.github.io/Varachack/MP3s/She%20Works%20Hard%20For%20The%20Money.mp3
+#EXTINF:0,Shiki No Uta (Minmi)
+https://varachack.github.io/Varachack/MP3s/Shiki%20No%20Uta%20(%E5%9B%9B%E5%AD%A3%E3%83%8E%E5%94%84)..mp3
+#EXTINF:0,Shiki No Uta (Somatrope)
+https://varachack.github.io/Varachack/MP3s/Shiki%20No%20Uta%20(%E5%9B%9B%E5%AD%A3%E3%83%8E%E5%94%84).mp3
+#EXTINF:0,Shinjitsu No Uta
+https://varachack.github.io/Varachack/MP3s/Shinjitsu%20No%20Uta%20(%E7%9C%9F%E5%AE%9F%E3%81%AE%E6%AD%8C).mp3
+#EXTINF:0,Shotgun
+https://varachack.github.io/Varachack/MP3s/Shotgun.mp3
+#EXTINF:0,Show Me
+https://varachack.github.io/Varachack/MP3s/Show%20Me.mp3
+#EXTINF:0,So Far Away
+https://varachack.github.io/Varachack/MP3s/So%20Far%20Away.mp3
+#EXTINF:0,So Many Girls
+https://varachack.github.io/Varachack/MP3s/So%20Many%20Girls.mp3
+#EXTINF:0,Somebody Else
+https://varachack.github.io/Varachack/MP3s/Somebody%20Else.mp3
+#EXTINF:0,Somebody That I Used To Know
+https://varachack.github.io/Varachack/MP3s/Somebody%20That%20I%20Used%20To%20Know.mp3
+#EXTINF:0,Someone To Love
+https://varachack.github.io/Varachack/MP3s/Someone%20To%20Love.mp3
+#EXTINF:0,Sono Mama no Kimi de Ite
+https://varachack.github.io/Varachack/MP3s/Sono%20Mama%20no%20Kimi%20de%20Ite.mp3
+#EXTINF:0,Sorry (Original Demo)
+https://varachack.github.io/Varachack/MP3s/Sorry%20(Original%20Demo).mp3
+#EXTINF:0,Started From The Bottom
+https://varachack.github.io/Varachack/MP3s/Started%20From%20The%20Bottom.mp3
+#EXTINF:0,Stay
+https://varachack.github.io/Varachack/MP3s/Stay.mp3
+#EXTINF:0,Stayin' Alive
+https://varachack.github.io/Varachack/MP3s/Stayin'%20Alive.mp3
+#EXTINF:0,Still D.R.E.
+https://varachack.github.io/Varachack/MP3s/Still%20D.R.E..mp3
+#EXTINF:0,Still Not A Player
+https://varachack.github.io/Varachack/MP3s/Still%20Not%20A%20Player.mp3
+#EXTINF:0,Stir Fry
+https://varachack.github.io/Varachack/MP3s/Stir%20Fry.mp3
+#EXTINF:0,Stir It Up
+https://varachack.github.io/Varachack/MP3s/Stir%20It%20Up.mp3
+#EXTINF:0,Stop! In The Name Of Love
+https://varachack.github.io/Varachack/MP3s/Stop!%20In%20the%20Name%20of%20Love.mp3
+#EXTINF:0,Strangers
+https://varachack.github.io/Varachack/MP3s/Strangers.mp3
+#EXTINF:0,Strip
+https://varachack.github.io/Varachack/MP3s/Strip.mp3
+#EXTINF:0,Stuck In The Middle With You
+https://varachack.github.io/Varachack/MP3s/Stuck%20In%20The%20Middle%20With%20You.mp3
+#EXTINF:0,Studio
+https://varachack.github.io/Varachack/MP3s/Studio.mp3
+#EXTINF:0,Sucker
+https://varachack.github.io/Varachack/MP3s/Sucker.mp3
+#EXTINF:0,Suit And Tie
+https://varachack.github.io/Varachack/MP3s/Suit%20and%20Tie.mp3
+#EXTINF:0,Summer Breeze
+https://varachack.github.io/Varachack/MP3s/Summer%20Breeze.mp3
+#EXTINF:0,Summer Wine
+https://varachack.github.io/Varachack/MP3s/Summer%20Wine.mp3
+#EXTINF:0,Sunday Bloody Sunday
+https://varachack.github.io/Varachack/MP3s/Sunday%20Bloody%20Sunday.mp3
+#EXTINF:0,Sunny Came Home
+https://varachack.github.io/Varachack/MP3s/Sunny%20Came%20Home.mp3
+#EXTINF:0,Superman
+https://varachack.github.io/Varachack/MP3s/Superman.mp3
+#EXTINF:0,Surviving The Times
+https://varachack.github.io/Varachack/MP3s/Surviving%20The%20Times.mp3
+#EXTINF:0,Sweet Dreams (Are Made Of This)
+https://varachack.github.io/Varachack/MP3s/Sweet%20Dreams.mp3
+#EXTINF:0,Sweet Love (Anita Baker)
+https://varachack.github.io/Varachack/MP3s/Sweet%20Love..mp3
+#EXTINF:0,Sweet Love (Chris Brown)
+https://varachack.github.io/Varachack/MP3s/Sweet%20Love.mp3
+#EXTINF:0,Swimming Pools
+https://varachack.github.io/Varachack/MP3s/Swimming%20Pools.mp3
+#EXTINF:0,TAO
+https://varachack.github.io/Varachack/MP3s/TAO.mp3
+#EXTINF:0,Tadaima
+https://varachack.github.io/Varachack/MP3s/Tadaima%20(%E3%82%BF%E3%83%80%E3%82%A4%E3%83%9E).mp3
+#EXTINF:0,Take A Chance On Me
+https://varachack.github.io/Varachack/MP3s/Take%20A%20Chance%20On%20Me.mp3
+#EXTINF:0,Take It To The Head
+https://varachack.github.io/Varachack/MP3s/Take%20It%20To%20The%20Head.mp3
+#EXTINF:0,Take Me Home, Country Roads
+https://varachack.github.io/Varachack/MP3s/Take%20Me%20Home,%20Country%20Roads.mp3
+#EXTINF:0,Take Me In Your Arms (Rock Me A Little While)
+https://varachack.github.io/Varachack/MP3s/Take%20Me%20In%20Your%20Arms%20(Rock%20Me%20a%20Little%20While).mp3
+#EXTINF:0,Take Me To Church
+https://varachack.github.io/Varachack/MP3s/Take%20Me%20to%20Church.mp3
+#EXTINF:0,Take My Breath Away
+https://varachack.github.io/Varachack/MP3s/Take%20My%20Breath%20Away.mp3
+#EXTINF:0,Take On Me
+https://varachack.github.io/Varachack/MP3s/Take%20On%20Me.mp3
+#EXTINF:0,Take You Down
+https://varachack.github.io/Varachack/MP3s/Take%20You%20Down.mp3
+#EXTINF:0,Talk
+https://varachack.github.io/Varachack/MP3s/Talk.mp3
+#EXTINF:0,Tane Wo Maku Hibi
+https://varachack.github.io/Varachack/MP3s/Tane%20wo%20Maku%20Hibi%20(%E7%A8%AE%E3%82%92%E3%81%BE%E3%81%8F%E6%97%A5%E3%80%85).mp3
+#EXTINF:0,Tangerine Dream
+https://varachack.github.io/Varachack/MP3s/Tangerine%20Dream.mp3
+#EXTINF:0,Teenage Love Affair
+https://varachack.github.io/Varachack/MP3s/Teenage%20Love%20Affair.mp3
+#EXTINF:0,Thank You
+https://varachack.github.io/Varachack/MP3s/Thank%20You.mp3
+#EXTINF:0,The Cisco Kid
+https://varachack.github.io/Varachack/MP3s/The%20Cisco%20Kid.mp3
+#EXTINF:0,The Glamorous Life
+https://varachack.github.io/Varachack/MP3s/The%20Glamorous%20Life.mp3
+#EXTINF:0,The Happening
+https://varachack.github.io/Varachack/MP3s/The%20Happening.mp3
+#EXTINF:0,The Less I Know The Better
+https://varachack.github.io/Varachack/MP3s/The%20Less%20I%20Know%20The%20Better.mp3
+#EXTINF:0,The One
+https://varachack.github.io/Varachack/MP3s/The%20One.mp3
+#EXTINF:0,The Rain (Supa Dupa Fly)
+https://varachack.github.io/Varachack/MP3s/The%20Rain%20(Supa%20Dupa%20Fly).mp3
+#EXTINF:0,The Real Folk Blues
+https://varachack.github.io/Varachack/MP3s/The%20Real%20Folk%20Blues.mp3
+#EXTINF:0,The Reason
+https://varachack.github.io/Varachack/MP3s/The%20Reason.mp3
+#EXTINF:0,The Tears Of A Clown
+https://varachack.github.io/Varachack/MP3s/The%20Tears%20Of%20A%20Clown.mp3
+#EXTINF:0,The Wah-Watusi
+https://varachack.github.io/Varachack/MP3s/The%20Wah-Watusi.mp3
+#EXTINF:0,The Way
+https://varachack.github.io/Varachack/MP3s/The%20Way.mp3
+#EXTINF:0,There She Goes (Sixpence None The Richer)
+https://varachack.github.io/Varachack/MP3s/There%20She%20Goes%20(Sixpence%20None%20the%20Richer).mp3
+#EXTINF:0,There She Goes (The La's)
+https://varachack.github.io/Varachack/MP3s/There%20She%20Goes%20(The%20La's).mp3
+#EXTINF:0,There You Are
+https://varachack.github.io/Varachack/MP3s/There%20You%20Are.mp3
+#EXTINF:0,These Dreams
+https://varachack.github.io/Varachack/MP3s/These%20Dreams.mp3
+#EXTINF:0,Think
+https://varachack.github.io/Varachack/MP3s/Think.mp3
+#EXTINF:0,Through The Wire
+https://varachack.github.io/Varachack/MP3s/Through%20The%20Wire.mp3
+#EXTINF:0,Throwin' Shapes
+https://varachack.github.io/Varachack/MP3s/Throwin'%20Shapes.mp3
+#EXTINF:0,Time After Time
+https://varachack.github.io/Varachack/MP3s/Time%20After%20Time.mp3
+#EXTINF:0,Time Machine
+https://varachack.github.io/Varachack/MP3s/Time%20Machine.mp3
+#EXTINF:0,Time Of Your Life
+https://varachack.github.io/Varachack/MP3s/Time%20of%20Your%20Life.mp3
+#EXTINF:0,Time's A Wastin'
+https://varachack.github.io/Varachack/MP3s/Time's%20A%20Wastin'.mp3
+#EXTINF:0,Tobira No Mukou E
+https://varachack.github.io/Varachack/MP3s/Tobira%20No%20Mukou%20E%20(%E6%89%89%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E3%81%B8).mp3
+#EXTINF:0,Tom Ford
+https://varachack.github.io/Varachack/MP3s/Tom%20Ford.mp3
+#EXTINF:0,Tom's Diner
+https://varachack.github.io/Varachack/MP3s/Tom's%20Diner.mp3
+#EXTINF:0,Too Good At Goodbyes
+https://varachack.github.io/Varachack/MP3s/Too%20Good%20At%20Goodbyes.mp3
+#EXTINF:0,Too Shy
+https://varachack.github.io/Varachack/MP3s/Too%20Shy.mp3
+#EXTINF:0,Torukia
+https://varachack.github.io/Varachack/MP3s/Torukia.mp3
+#EXTINF:0,Toxic
+https://varachack.github.io/Varachack/MP3s/Toxic.mp3
+#EXTINF:0,Trip
+https://varachack.github.io/Varachack/MP3s/Trip.mp3
+#EXTINF:0,Truffle Butter
+https://varachack.github.io/Varachack/MP3s/Truffle%20Butter.mp3
+#EXTINF:0,Try Again
+https://varachack.github.io/Varachack/MP3s/Try%20Again.mp3
+#EXTINF:0,Tsurugi No Mai
+https://varachack.github.io/Varachack/MP3s/Nujabes%20-%20Tsurugi%20No%20Mai.mp3
+#EXTINF:0,Turn You Inside Out
+https://varachack.github.io/Varachack/MP3s/Turn%20You%20Inside%20Out.mp3
+#EXTINF:0,Turn! Turn! Turn!
+https://varachack.github.io/Varachack/MP3s/Turn!%20Turn!%20Turn!.mp3
+#EXTINF:0,Unbreakable
+https://varachack.github.io/Varachack/MP3s/Unbreakable.mp3
+#EXTINF:0,Undrunk
+https://varachack.github.io/Varachack/MP3s/Undrunk.mp3
+#EXTINF:0,Unfoolish
+https://varachack.github.io/Varachack/MP3s/Unfoolish.mp3
+#EXTINF:0,Unforgettable
+https://varachack.github.io/Varachack/MP3s/Unforgettable.mp3
+#EXTINF:0,Unwell
+https://varachack.github.io/Varachack/MP3s/Unwell.mp3
+#EXTINF:0,Up All Night
+https://varachack.github.io/Varachack/MP3s/Up%20All%20Night.mp3
+#EXTINF:0,Upside Down
+https://varachack.github.io/Varachack/MP3s/Upside%20Down.mp3
+#EXTINF:0,Uptight (Everything's Alright)
+https://varachack.github.io/Varachack/MP3s/Uptight%20(Everything's%20Alright).mp3
+#EXTINF:0,Use Somebody
+https://varachack.github.io/Varachack/MP3s/Use%20Somebody.mp3
+#EXTINF:0,Uso
+https://varachack.github.io/Varachack/MP3s/Uso%20(%E3%81%86%E3%81%9D).mp3
+#EXTINF:0,Victory
+https://varachack.github.io/Varachack/MP3s/Victory.mp3
+#EXTINF:0,Virtual Insanity
+https://varachack.github.io/Varachack/MP3s/Virtual%20Insanity.mp3
+#EXTINF:0,Viva La Vida
+https://varachack.github.io/Varachack/MP3s/Viva%20La%20Vida.mp3
+#EXTINF:0,Waiting For A Girl Like You
+https://varachack.github.io/Varachack/MP3s/Waiting%20For%20A%20Girl%20Like%20You.mp3
+#EXTINF:0,Walk On By (Dionne Warwick)
+https://varachack.github.io/Varachack/MP3s/Walk%20On%20By.mp3
+#EXTINF:0,Walk On By (Sybil)
+https://varachack.github.io/Varachack/MP3s/Walk%20On%20By...mp3
+#EXTINF:0,We Are
+https://varachack.github.io/Varachack/MP3s/We%20Are.mp3
+#EXTINF:0,We Are Family
+https://varachack.github.io/Varachack/MP3s/We%20Are%20Family.mp3
+#EXTINF:0,Weary
+https://varachack.github.io/Varachack/MP3s/Weary.mp3
+#EXTINF:0,West End Girls
+https://varachack.github.io/Varachack/MP3s/West%20End%20Girls.mp3
+#EXTINF:0,Wet Dreamz
+https://varachack.github.io/Varachack/MP3s/Wet%20Dreamz.mp3
+#EXTINF:0,What 'Cha Gonna Do For Me
+https://varachack.github.io/Varachack/MP3s/What%20'Cha%20Gonna%20Do%20For%20Me.mp3
+#EXTINF:0,What About Love
+https://varachack.github.io/Varachack/MP3s/What%20About%20Love.mp3
+#EXTINF:0,What About Your Friends
+https://varachack.github.io/Varachack/MP3s/What%20About%20Your%20Friends.mp3
+#EXTINF:0,What Went Wrong
+https://varachack.github.io/Varachack/MP3s/What%20Went%20Wrong.mp3
+#EXTINF:0,What You Need
+https://varachack.github.io/Varachack/MP3s/What%20You%20Need.mp3
+#EXTINF:0,What's Love Got To Do With It
+https://varachack.github.io/Varachack/MP3s/What's%20Love%20Got%20to%20Do%20With%20It.mp3
+#EXTINF:0,What's Luv
+https://varachack.github.io/Varachack/MP3s/What's%20Luv.mp3
+#EXTINF:0,Whatchamacallit
+https://varachack.github.io/Varachack/MP3s/Whatchamacallit.mp3
+#EXTINF:0,Whenever You're Around
+https://varachack.github.io/Varachack/MP3s/Whenever%20You're%20Around.mp3
+#EXTINF:0,Where Did Our Love Go
+https://varachack.github.io/Varachack/MP3s/Where%20Did%20Our%20Love%20Go.mp3
+#EXTINF:0,Where Do We Go
+https://varachack.github.io/Varachack/MP3s/Where%20Do%20We%20Go.mp3
+#EXTINF:0,Where Have You Been
+https://varachack.github.io/Varachack/MP3s/Where%20Have%20You%20Been.mp3
+#EXTINF:0,White Flag
+https://varachack.github.io/Varachack/MP3s/White%20Flag.mp3
+#EXTINF:0,White Mystery
+https://varachack.github.io/Varachack/MP3s/White%20Mystery.mp3
+#EXTINF:0,Who Will Save Your Soul
+https://varachack.github.io/Varachack/MP3s/Who%20Will%20Save%20Your%20Soul.mp3
+#EXTINF:0,Wicked Games
+https://varachack.github.io/Varachack/MP3s/Wicked%20Games.mp3
+#EXTINF:0,Wild Thoughts
+https://varachack.github.io/Varachack/MP3s/Wild%20Thoughts.mp3
+#EXTINF:0,Window Seat
+https://varachack.github.io/Varachack/MP3s/Window%20Seat.mp3
+#EXTINF:0,Window Shades
+https://varachack.github.io/Varachack/MP3s/Window%20Shades.mp3
+#EXTINF:0,Wish I Didn't Miss You
+https://varachack.github.io/Varachack/MP3s/Wish%20I%20Didn't%20Miss%20You.mp3
+#EXTINF:0,Wishing On A Star
+https://varachack.github.io/Varachack/MP3s/Wishing%20On%20A%20Star..mp3
+#EXTINF:0,Without Me
+https://varachack.github.io/Varachack/MP3s/Without%20Me.mp3
+#EXTINF:0,Work
+https://varachack.github.io/Varachack/MP3s/Work.mp3
+#EXTINF:0,Yesterday And Today
+https://varachack.github.io/Varachack/MP3s/Yesterday%20&%20Today.mp3
+#EXTINF:0,You (Chris Brown)
+https://varachack.github.io/Varachack/MP3s/You.mp3
+#EXTINF:0,You (Tsutchie)
+https://varachack.github.io/Varachack/MP3s/You..mp3
+#EXTINF:0,You Can't Hurry Love
+https://varachack.github.io/Varachack/MP3s/You%20Can't%20Hurry%20Love.mp3
+#EXTINF:0,You Don't Know My Name
+https://varachack.github.io/Varachack/MP3s/You%20Don't%20Know%20My%20Name.mp3
+#EXTINF:0,You Dropped A Bomb On Me
+https://varachack.github.io/Varachack/MP3s/You%20Dropped%20A%20Bomb%20On%20Me.mp3
+#EXTINF:0,You Got Me
+https://varachack.github.io/Varachack/MP3s/You%20Got%20Me.mp3
+#EXTINF:0,You Keep Me Hangin' On
+https://varachack.github.io/Varachack/MP3s/You%20Keep%20Me%20Hangin'%20On.mp3
+#EXTINF:0,You Learn
+https://varachack.github.io/Varachack/MP3s/You%20Learn.mp3
+#EXTINF:0,You Make My Dreams
+https://varachack.github.io/Varachack/MP3s/You%20Make%20My%20Dreams.mp3
+#EXTINF:0,You Remind Me
+https://varachack.github.io/Varachack/MP3s/U%20Remind%20Me.mp3
+#EXTINF:0,You Wear It Well
+https://varachack.github.io/Varachack/MP3s/You%20Wear%20It%20Well.mp3
+#EXTINF:0,You Were Meant For Me
+https://varachack.github.io/Varachack/MP3s/You%20Were%20Meant%20For%20Me.mp3
+#EXTINF:0,You'll See
+https://varachack.github.io/Varachack/MP3s/You'll%20See.mp3
+#EXTINF:0,You're No Good
+https://varachack.github.io/Varachack/MP3s/You'll%20See.mp3
+#EXTINF:0,You're Still The One
+https://varachack.github.io/Varachack/MP3s/You're%20Still%20the%20One.mp3
+#EXTINF:0,Yumeji
+https://varachack.github.io/Varachack/MP3s/Yumeji.mp3
+#EXTINF:0,Yummy
+https://varachack.github.io/Varachack/MP3s/Yummy.mp3
+#EXTINF:0,ZEZE
+https://varachack.github.io/Varachack/MP3s/ZEZE.mp3
+

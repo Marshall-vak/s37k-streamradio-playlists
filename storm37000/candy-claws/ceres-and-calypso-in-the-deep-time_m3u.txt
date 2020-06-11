@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:0,Candy Claws - Into the Deep Time
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Into the Deep Time.aac
+#EXTINF:0,Candy Claws - White Seal
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/White Seal.aac
+#EXTINF:0,Candy Claws - Fell In Love At The Water
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Fell in Love.aac
+#EXTINF:0,Candy Claws - Pangaea Girls
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Pangaea Girls.aac
+#EXTINF:0,Candy Claws - New Forest
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/New Forest.aac
+#EXTINF:0,Candy Claws - Transitional Bird
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Transitional Bird.aac
+#EXTINF:0,Candy Claws - Charade
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Charade.aac
+#EXTINF:0,Candy Claws - Fallen Tree Bridge
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Fallen Tree Bridge.aac
+#EXTINF:0,Candy Claws - Birth of the Flower
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Birth of the Flower.aac
+#EXTINF:0,Candy Claws - Illusion
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Illusion.aac
+#EXTINF:0,Candy Claws - Night Ela
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Night Ela.aac
+#EXTINF:0,Candy Claws - Where I Found You
+https://storm37k.com/LBqwyQLeMxK2kUhv/candyclaws/Where I Found You.aac
+

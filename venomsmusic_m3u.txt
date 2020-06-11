@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0,Panini - Lil Nas X
+https://www.dropbox.com/s/vww6igajgfon15a/Lil%20Nas%20X%20-%20Panini%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Cradles - Sub Urban
+https://www.dropbox.com/s/xnypsle32bptuvc/Sub%20Urban%20-%20Cradles%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Let Her Go - Passenger
+https://www.dropbox.com/s/rrh8mhqu3kc72jw/Passenger%20-%20Let%20Her%20Go%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Demons - Imagine Dragons
+https://www.dropbox.com/s/tlwhrzmgxa16g2p/Imagine%20Dragons%20-%20Demons%20%28Official%20Video%29.mp3?dl=1
+#EXTINF:0,Cradles - Sub Urban [NCS]
+https://www.dropbox.com/s/xnypsle32bptuvc/Sub%20Urban%20-%20Cradles%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Can We Kiss Forever - Kina
+https://www.dropbox.com/s/2p2rn7bvhbe2eeh/Kina%20-%20Can%20We%20Kiss%20Forever%20%28ft.%20Adriana%20Proenza%29.mp3?dl=1
+#EXTINF:0,TRUST NOBODY - Hippie Sabotage
+https://www.dropbox.com/s/sk85a6z3v82yww3/Hippie%20Sabotage%20-%20TRUST%20NOBODY.mp3?dl=1
+#EXTINF:0,Devil Eyes - Hippie Sabotage
+https://www.dropbox.com/s/018gboe5k3vgbq0/Hippie%20Sabotage%20-%20Devil%20Eyes.mp3?dl=1
+

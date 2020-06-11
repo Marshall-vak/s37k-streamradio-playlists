@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,The Paperheads - Let Me Know
+https://storm37k.com/LBqwyQLeMxK2kUhv/paperheads/Let Me Know.aac
+#EXTINF:0,The Paperheads - Come Again
+https://storm37k.com/LBqwyQLeMxK2kUhv/paperheads/Come Again.aac
+#EXTINF:0,The Paperheads - Old Fashioned Kind
+https://storm37k.com/LBqwyQLeMxK2kUhv/paperheads/Old Fashioned Kind.aac
+#EXTINF:0,The Paperheads - The True Poet
+https://storm37k.com/LBqwyQLeMxK2kUhv/paperheads/The True Poet.aac
+#EXTINF:0,The Paperheads - None Other Than
+https://storm37k.com/LBqwyQLeMxK2kUhv/paperheads/None Other Than.aac
+

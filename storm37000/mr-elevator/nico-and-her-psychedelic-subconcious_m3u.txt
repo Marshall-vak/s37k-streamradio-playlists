@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,Mr. Elevator - Nico
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Nico.aac
+#EXTINF:0,Mr. Elevator - And Her Psychedelic Subconcious
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/And Her Psychedelic Subconcious.aac
+#EXTINF:0,Mr. Elevator - My Purple I
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/My Purple I.aac
+#EXTINF:0,Mr. Elevator - Mermaid Song
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Mermaid Song.aac
+#EXTINF:0,Mr. Elevator - Sunshine Starlight
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Sunshine Starlight.aac
+#EXTINF:0,Mr. Elevator - Right Where You Ought to Be
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Right Where You Ought to Be.aac
+#EXTINF:0,Mr. Elevator - Grape Jelly (Jam)
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Grape Jelly.aac
+#EXTINF:0,Mr. Elevator - Dont Hold Back
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Dont Hold Back.aac
+#EXTINF:0,Mr. Elevator - Velvet Night
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Velvet Night.aac
+#EXTINF:0,Mr. Elevator - Infinity
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/nico/Infinity.aac
+

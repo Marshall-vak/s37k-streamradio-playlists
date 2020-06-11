@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,Mr. Elevator - Waiting
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Waiting.aac
+#EXTINF:0,Mr. Elevator - Love Again
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Love Again.aac
+#EXTINF:0,Mr. Elevator - Alone Together
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Alone Together.aac
+#EXTINF:0,Mr. Elevator - Bamboo Forest
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Bamboo Forest.aac
+#EXTINF:0,Mr. Elevator - Anywhere
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Anywhere.aac
+#EXTINF:0,Mr. Elevator - Brobdingag
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Brobdingag.aac
+#EXTINF:0,Mr. Elevator - Down
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Down.aac
+#EXTINF:0,Mr. Elevator - Kompressor
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Kompressor.aac
+#EXTINF:0,Mr. Elevator - Sylvia
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Sylvia.aac
+#EXTINF:0,Mr. Elevator - Patterns
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/goodbyebluesky/Patterns.aac
+

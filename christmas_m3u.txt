@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0,ChristmasHits.FM | Your Christmas Radio Station | www.christmashits.fm
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.105.118.14:24000/listen.pls&t=.m3u
+#EXTINF:0,Forever Christmas Radio
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.99.163:16514/listen.pls?sid=1&t=.m3u
+#EXTINF:0,Classic Holiday Radio (Classic Christmas Carols and Holiday Music with the Orginal Golden Artists)
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://66.85.154.211:9035/listen.pls&t=.m3u
+#EXTINF:0,Your Christmas Station
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.70.66:8526/listen.pls&t=.m3u
+#EXTINF:0,Free Christmas Music Online
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://185.7.81.180:80/listen.pls?sid=1&t=.m3u
+#EXTINF:0,Always Christmas Channel
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.89.153:10051/listen.pls?sid=1&t=.m3u
+#EXTINF:0,Sunshine Radio Network Christmas
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://96.31.90.115:8184/listen.pls&t=.m3u
+#EXTINF:0,WRDP FM Mix 105
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.114:8365/listen.pls&t=.m3u
+#EXTINF:0,Endurance Radio Christmas
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.157.241.193:8013/listen.pls&t=.m3u
+

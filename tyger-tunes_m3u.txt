@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:0,Aerials - System Of A Down
+https://www.dropbox.com/s/skwi74pynnx2ak6/Aerials%20-%20System%20Of%20A%20Down.mp3?dl=1
+#EXTINF:0,Alive - Pearl Jam
+https://www.dropbox.com/s/qe6ipgsjb064pqh/Alive%20-%20Pearl%20Jam.mp3?dl=1
+#EXTINF:0,All Apologies (Original Steve Albini 1993 Mix) - Nirvana
+https://www.dropbox.com/s/2wdyt6wpid9ba5j/All%20Apologies%20%28Original%20Steve%20Albini%201993%20Mix%29%20-%20Nirvana.mp3?dl=1
+#EXTINF:0,Apologize (Timbaland) - OneRepublic
+https://www.dropbox.com/s/p1xhlz5f7u92hwi/Apologize%20%28Timbaland%29%20-%20OneRepublic.mp3?dl=1
+#EXTINF:0,Bad Company - Five Finger Death Punch
+https://www.dropbox.com/s/pn4ykey1tu5m2ay/Bad%20Company%20-%20Five%20Finger%20Death%20Punch.mp3?dl=1
+#EXTINF:0,Battle Cry - Imagine Dragons
+https://www.dropbox.com/s/ebmmxzr68lj1q23/Battle%20Cry%20-%20Imagince%20Dragons.mp3?dl=1
+#EXTINF:0,Better - Khalid
+https://www.dropbox.com/s/zbhe9nllqe47c9m/Better%20-%20Khalid.mp3?dl=1
+#EXTINF:0,Bitter Sweet Symphony (Extended) - The Verve
+https://www.dropbox.com/s/06mguiq55t11632/Bitter%20Sweet%20Symphony%20%28Extended%20Version%29%20-%20The%20Verve.mp3?dl=1
+#EXTINF:0,Black - Pearl Jam
+https://www.dropbox.com/s/7urnfskyeclacmd/Black%20-%20Pearl%20Jam.mp3?dl=1
+#EXTINF:0,Californication - Red Hot Chili Peppers
+https://www.dropbox.com/s/p57qr8qipsf01yd/Californication%20-%20Red%20Hot%20Chili%20Peppers.mp3?dl=1
+#EXTINF:0,Check My Brain - Alice In Chains
+https://www.dropbox.com/s/ta9lkvbxnv2m6md/Check%20My%20Brain%20-%20Alice%20In%20Chains.mp3?dl=1
+#EXTINF:0,Colors - Crossfade
+https://www.dropbox.com/s/b6r7c0w8h7s5fl6/Colors%20-%20Crossfade.mp3?dl=1
+#EXTINF:0,Come As You Are - Nirvana
+https://www.dropbox.com/s/xsuyxuk4esb8a26/Come%20As%20You%20Are%20-%20Nirvana.mp3?dl=1
+#EXTINF:0,Counting Stars - OneRepublic
+https://www.dropbox.com/s/ham70dqbr797ufx/Counting%20Stars%20-%20OneRepublic.mp3?dl=1
+#EXTINF:0,Dani California - Red Hot Chili Peppers
+https://www.dropbox.com/s/cldibg5lz5wmq9e/Dani%20California%20-%20Red%20Hot%20Chili%20Peppers.mp3?dl=1
+#EXTINF:0,Danny Don't You Know - NSP
+https://www.dropbox.com/s/kw00pnz385res95/Danny%20Don%27t%20You%20Know.mp3?dl=1
+#EXTINF:0,DARE - Gorillaz
+https://www.dropbox.com/s/epz0nbg1v3y5i4s/DARE%20-%20Gorillaz.mp3?dl=1
+#EXTINF:0,Don't Follow - Alice In Chains
+https://www.dropbox.com/s/wkc53143ih2rh06/Don%27t%20Follow%20-%20Alice%20In%20Chains.mp3?dl=1
+#EXTINF:0,Don't Stop Me Now (2011 Mix) - Queen
+https://www.dropbox.com/s/5kysmdg08udkg5j/Don%27t%20Stop%20Me%20Now%20%282011%20Mix%29%20-%20Queen.mp3?dl=1
+#EXTINF:0,Down Under - Men At Work
+https://www.dropbox.com/s/okrwzm24wb8ykdf/Down%20Under%20-%20Men%20At%20Work.mp3?dl=1
+#EXTINF:0,Dragula - Rob Zombie
+https://www.dropbox.com/s/1mo35rxey1oh14k/Dragula%20-%20Rob%20Zombie.mp3?dl=1
+#EXTINF:0,Even Flow - Pearl Jam
+https://www.dropbox.com/s/72p4els0hk71xyt/Even%20Flow%20-%20Pear%20jam.mp3?dl=1
+#EXTINF:0,Everlong - Foo Fighters
+https://www.dropbox.com/s/lj398m7c551igz1/Everlong%20-%20Foo%20Fighters.mp3?dl=1
+#EXTINF:0,Everything - TobyMac
+https://www.dropbox.com/s/5lkytzu0g8k0bdg/Everything%20-%20TobyMac.mp3?dl=1
+#EXTINF:0,Fireflies - Owl City
+https://www.dropbox.com/s/4u1sp9zh0qycw1u/Fireflies%20-%20Owl%20City.mp3?dl=1
+#EXTINF:0,Fortunate Son - [REDACTED]
+https://www.dropbox.com/s/7gz0vp0sud9g3lf/Fortunate%20Son.mp3?dl=1
+#EXTINF:0,Gone Away - FFDP
+https://www.dropbox.com/s/bfe8n4mqpoxa2cu/Gone%20Away%20-%20FFDP.mp3?dl=1
+#EXTINF:0,Grenade - Bruno Mars
+https://www.dropbox.com/s/psyz1fb79yx43eo/Grenade%20-%20Bruno%20Mars.mp3?dl=1
+#EXTINF:0,Heart-Shaped Box (Original Steve Albini Mix) - Nirvana
+https://www.dropbox.com/s/p8az7o2kd138cua/Heart-Shaped%20Box%20%28Original%20Steve%20Albini%20Mix%29%20-%20Nirvana.mp3?dl=1
+#EXTINF:0,House Of The Rising Sun - The Animals
+https://www.dropbox.com/s/uyvm4l6v1vu992w/House%20Of%20The%20Rising%20Sun%20-%20The%20Animals.mp3?dl=1
+#EXTINF:0,How Did You Love - Shinedown
+https://www.dropbox.com/s/4jrkrfgkuhwh5bt/How%20Did%20You%20Love%20-%20Shinedown.mp3?dl=1
+#EXTINF:0,I just need U. - Tobymac
+https://www.dropbox.com/s/mp8riqysy7lowvh/I%20just%20need%20U.%20-%20Tobymac.mp3?dl=1
+#EXTINF:0,I'm Gonna Be - The Proclaimers
+https://www.dropbox.com/s/irw8ohfjeoxqfl9/I%27m%20Gonna%20Be%20-%20The%20Proclaimers.mp3?dl=1
+#EXTINF:0,In The Air Tonight - Phil Collins
+https://www.dropbox.com/s/uvx45mgswdmp0tf/In%20the%20Air%20Tonight%20-%20Phil%20Collins.mp3?dl=1
+#EXTINF:0,In Your Eyes - Peter Gabriel
+https://www.dropbox.com/s/suio4vqvupz0rm4/In%20Your%20Eyes%20-%20Peter%20Gabriel.mp3?dl=1
+#EXTINF:0,It's A Mistake - Men At Work
+https://www.dropbox.com/s/kb84l4x7l2cpp7v/It%27s%20A%20Mistake%20-%20Men%20At%20Work.mp3?dl=1
+#EXTINF:0,It's Been Awhile - Staind
+https://www.dropbox.com/s/u8b04y6cebn8tvo/It%27s%20Been%20Awhile%20-%20Staind.mp3?dl=1
+#EXTINF:0,Lake Of Fire (Live) - Nirvana
+https://www.dropbox.com/s/iwfu8jjhownfmtv/Lake%20Of%20Fire%20%28Live%29%20-%20Nirvana.mp3?dl=1
+#EXTINF:0,Land of Confusion - Disturbed
+https://www.dropbox.com/s/sruh55e7ckc2jjz/Land%20of%20Confusion%20-%20Disturbed.mp3?dl=1
+#EXTINF:0,Last Kiss - Pearl Jam
+https://www.dropbox.com/s/a1lhbccxw7tgn4f/Last%20Kiss%20-%20Pearl%20Jam.mp3?dl=1
+#EXTINF:0,Living Dead Girl - Rob Zombie
+https://www.dropbox.com/s/pcvjc6b7jj7noey/Living%20Dead%20Girl%20-%20Rob%20Zombie.mp3?dl=1
+#EXTINF:0,Lonely Day - System Of A Down
+https://www.dropbox.com/s/u87ddlfhun45ath/Lonely%20Day%20-%20System%20Of%20A%20Down.mp3?dl=1
+#EXTINF:0,Loser - Beck
+https://www.dropbox.com/s/trecpda1gtne0sb/Loser%20-%20Beck.mp3?dl=1
+#EXTINF:0,Midnight City - M83
+https://www.dropbox.com/s/3vmzoralihnug6l/Midnight%20City%20-%20M83.mp3?dl=1
+#EXTINF:0,Nutshell - Alice In Chains
+https://www.dropbox.com/s/lna5luk3990vykx/Nutshell%20-%20Alice%20In%20Chains.mp3?dl=1
+#EXTINF:0,On Melancholy Hill - Gorillaz
+https://www.dropbox.com/s/5u2dfz9knwurplv/On%20Melancholy%20Hill%20-%20Gorillaz.mp3?dl=1
+#EXTINF:0,Overkill - Men At Work
+https://www.dropbox.com/s/otjaprd1ym8vg2z/Overkill%20-%20Men%20At%20Work.mp3?dl=1
+#EXTINF:0,Paradise - Coldplay
+https://www.dropbox.com/s/3pjkli8cto2g6c5/Paradise%20-%20Coldplay.mp3?dl=1
+#EXTINF:0,Payphone - Maroon 5
+https://www.dropbox.com/s/bqrswx597s5pbkw/Payphone%20-%20Maroon%205.mp3?dl=1
+#EXTINF:0,Plush - Stone Temple Pilots
+https://www.dropbox.com/s/jxdeg5nmipo75ik/Plush%20-%20Stone%20Temple%20Pilots.mp3?dl=1
+#EXTINF:0,Pompeii - Bastille
+https://www.dropbox.com/s/d7g3mszh6gozzg2/Pompeii%20-%20Bastille.mp3?dl=1
+#EXTINF:0,Remember Everything - Five Finger Death Punch
+https://www.dropbox.com/s/j30f2q47zwija7b/Remember%20Everything%20-%20Five%20Finger%20Death%20Punch.mp3?dl=1
+#EXTINF:0,Resonance - HOME
+https://www.dropbox.com/s/fi7i2jn0q1hrahc/Resonance%20-%20HOME.mp3?dl=1
+#EXTINF:0,Ride Slow - Russ
+https://www.dropbox.com/s/q26i7vqzwnbz93n/Ride%20Slow%20-%20Russ.mp3?dl=1
+#EXTINF:0,Say It Ain't So - Weezer
+https://www.dropbox.com/s/0hw2tpq0oavgwoc/Say%20It%20Ain%27t%20So%20-%20Weezer.mp3?dl=1
+#EXTINF:0,Scar Tissue - Red Hot Chili Peppers
+https://www.dropbox.com/s/4ewlf7e6wzxsfo5/Scar%20Tissue%20-%20Red%20Hot%20Chili%20Peppers.mp3?dl=1
+#EXTINF:0,Scars - TobyMac
+https://www.dropbox.com/s/ntcvdocyev19nfr/Scars%20-%20TobyMac.mp3?dl=1
+#EXTINF:0,Second Chance - Shinedown
+https://www.dropbox.com/s/1tpigmkdmma2rko/Second%20Chance%20-%20Shinedown.mp3?dl=1
+#EXTINF:0,Sherry - Franklie Valli & The Four Seasons
+https://www.dropbox.com/s/ssrulskqabdf4tn/Sherry%20-%20Frankie%20Valli%20%26%20The%20Four%20Seasons%20.mp3?dl=1
+#EXTINF:0,Simple Man - Lynyrd Skynyrd
+https://www.dropbox.com/s/8k43sexna7e03s1/Simple%20Man%20-%20Lynyrd%20Skynyrd.mp3?dl=1
+#EXTINF:0,Snow - Red Hot Chili Peppers
+https://www.dropbox.com/s/6f5261zkrkw8ixt/Snow%20-%20Red%20Hot%20Chili%20Peppers.mp3?dl=1
+#EXTINF:0,Something In The Way - Nirvana
+https://www.dropbox.com/s/9mzld1jsk7refxt/Something%20In%20The%20Way%20-%20Nirvana.mp3?dl=1
+#EXTINF:0,Soul to Squeeze - RHCP
+https://www.dropbox.com/s/8p78zu2mnbf8dnf/Soul%20to%20Squeeze%20-%20RHCP.mp3?dl=1
+#EXTINF:0,State of My Head - Shinedown
+https://www.dropbox.com/s/iaewbu740bh2pm5/State%20of%20My%20Head%20-%20Shinedown.mp3?dl=1
+#EXTINF:0,Sugar - Maroon 5
+https://www.dropbox.com/s/9636t104ksv336i/Sugar%20-%20Maroon%205.mp3?dl=1
+#EXTINF:0,Sunflower - Post Malone
+https://www.dropbox.com/s/165dbcofxi7qzxn/Sunflower%20-%20Post%20Malone.mp3?dl=1
+#EXTINF:0,The Day That Never Comes - Metallica
+https://www.dropbox.com/s/r6jlbg70cnu167y/The%20Day%20That%20Never%20Comes%20-%20Metallica.mp3?dl=1
+#EXTINF:0,The Pretender - Foo Fighters
+https://www.dropbox.com/s/3iw657762hb39b6/The%20Pretender%20-%20Foo%20Fighters.mp3?dl=1
+#EXTINF:0,Through Glass - Stone Sour
+https://www.dropbox.com/s/xgqi57gwzmihltv/Through%20Glass%20-%20Stone%20Sour.mp3?dl=1
+#EXTINF:0,Through The Fire And Flames - DragonForce
+https://www.dropbox.com/s/7ap8rmwnrdyq4jn/Through%20The%20Fire%20And%20Flames%20-%20DragonForce.mp3?dl=1
+#EXTINF:0,Toxicity - System Of A Down
+https://www.dropbox.com/s/30kwiq4b0wunjsl/Toxicity%20-%20System%20Of%20A%20Down.mp3?dl=1
+#EXTINF:0,Up there - Post Malone
+https://www.dropbox.com/s/jp5k8p45z06wovn/Up%20there%20-%20Post%20Malone.mp3?dl=1
+#EXTINF:0,What a Shame - Shinedown
+https://www.dropbox.com/s/33a246xlxmdlbuj/What%20a%20Shame%20-%20Shinedown.mp3?dl=1
+#EXTINF:0,What a Wonderful World - Louis Armstrong
+https://www.dropbox.com/s/993xgir48cy8mm9/What%20a%20Wonderful%20World%20-%20Louis%20Armstrong.mp3?dl=1
+#EXTINF:0,Wish You Were Here - Pink Floyd
+https://www.dropbox.com/s/ixcc9idck7o6lsb/Wish%20You%20Were%20Here%20-%20Pink%20Floyd.mp3?dl=1
+#EXTINF:0,Wrong Side of Heaven - Five Finger Death Punch
+https://www.dropbox.com/s/8i80zl99ceozoyl/Wrong%20Side%20of%20Heaven%20-%20Five%20Finger%20Death%20Punch.mp3?dl=1
+

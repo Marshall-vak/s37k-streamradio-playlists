@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,90MH - Truefuego
+https://www.dropbox.com/s/zgf7zkt6elvstwx/y2mate.com%20-%2090mh_trefuego_tik_tok_bass_boosted_JH0ZiPhD0Y0.mp3?dl=1
+#EXTINF:0,Tyga Tase
+https://www.dropbox.com/s/isqlxr8yaeauekm/y2mate.com%20-%20tyga_taste_ft_offset_bass_boosted_EUiCVYFAvW4.mp3?dl=1
+#EXTINF:0,xxxTentacion
+https://www.dropbox.com/s/tndq9fzelmyhus6/y2mate.com%20-%20xxxtentacion_off_the_wall_remakeremix_bass_boosted_FG64U4pcdc4.mp3?dl=1
+

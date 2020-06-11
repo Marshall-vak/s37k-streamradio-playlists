@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:0,Mr. Elevator - When the Morning Greets You with a Smile
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/When the Morning Greets You with a Smile.aac
+#EXTINF:0,Mr. Elevator - Madeline
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Madeline.aac
+#EXTINF:0,Mr. Elevator - Sunshine Daydream
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Sunshine Daydream.aac
+#EXTINF:0,Mr. Elevator - Dreamer
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Dreamer.aac
+#EXTINF:0,Mr. Elevator - Are You Hypnotized
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Are You Hypnotized.aac
+#EXTINF:0,Mr. Elevator - A Lullaby
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/A Lullaby.aac
+#EXTINF:0,Mr. Elevator - Intro
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Intro.aac
+#EXTINF:0,Mr. Elevator - Cosmic Bloom
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Cosmic Bloom.aac
+#EXTINF:0,Mr. Elevator - Let Me Be
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Let Me Be.aac
+#EXTINF:0,Mr. Elevator - Ending
+https://storm37k.com/LBqwyQLeMxK2kUhv/mrelevator/whenthemorninggreatsyou/Ending.aac
+

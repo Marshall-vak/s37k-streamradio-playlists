@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,Mac DeMarco - Passing Out Pieces
+https://storm37k.com/LBqwyQLeMxK2kUhv/macdemarco/Passing Out Pieces.ogg
+#EXTINF:0,Mac DeMarco - Chamber Of Reflection
+https://storm37k.com/LBqwyQLeMxK2kUhv/macdemarco/Chamber Of Reflection.ogg
+

@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:0,phsyco social
+https://www.youtube.com/watch?v=5abamRO41fE&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=3&t=0s
+#EXTINF:0,Brick in the wall
+https://www.youtube.com/watch?v=YR5ApYxkU-U&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=4&t=0s
+#EXTINF:0,HEY BROTHER!
+https://www.youtube.com/watch?v=6Cp6mKbRTQY&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=5&t=0s
+#EXTINF:0,Till i collapse
+https://www.youtube.com/watch?v=m4dJN6MX-6I&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=6&t=0s
+#EXTINF:0,Mnster meg and dia
+https://www.youtube.com/watch?v=cnPmkNu_oEg&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=8&t=0s
+#EXTINF:0,Monster -Skillet
+https://www.youtube.com/watch?v=u9NStVkSCuk&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=10&t=0s
+#EXTINF:0,CRAZY TRAIN
+https://www.youtube.com/watch?v=ZDZtbBZuqb0&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=12&t=0s
+#EXTINF:0,Lets start a riot
+https://www.youtube.com/watch?v=XncuY4wLaA8&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=17&t=0s
+#EXTINF:0,Riot
+https://www.youtube.com/watch?v=UNcx4SnRK9I&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=18&t=0s
+#EXTINF:0,The humbling river tfoc
+https://www.youtube.com/watch?v=ZV2EwvbDjYE&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=19&t=0s
+#EXTINF:0,Chop Suey
+https://www.youtube.com/watch?v=CSvFpBOe8eY&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=20&t=0s
+#EXTINF:0,Demons
+https://www.youtube.com/watch?v=LqI78S14Wgg&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=22&t=0s
+#EXTINF:0,Welcome to the fusion
+https://www.youtube.com/watch?v=M2MAkcbS-cc&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=25&t=0s
+#EXTINF:0,Face down
+https://www.youtube.com/watch?v=W8wvyPDZo_w&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=26&t=0s
+#EXTINF:0,rockstar
+https://www.youtube.com/watch?v=UceaB4D0jpo&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=27&t=0s
+#EXTINF:0,Wrong side of heaven
+https://www.youtube.com/watch?v=UceaB4D0jpo&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=27&t=0s
+#EXTINF:0,Legends
+https://www.youtube.com/watch?v=jecQcgbyetw&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=33&t=0s
+#EXTINF:0,Stars
+https://www.youtube.com/watch?v=A57B7B6w3kw&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=36&t=0s
+#EXTINF:0,Soap
+https://www.youtube.com/watch?v=YjZNBGY0A38&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=37&t=0s
+#EXTINF:0,All of me
+https://www.youtube.com/watch?v=R21EU8SKUM0&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=39&t=0s
+#EXTINF:0,theory of a dead man
+https://www.youtube.com/watch?v=uCDMGPZTv9U&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=40&t=0s
+#EXTINF:0,Without me
+https://www.youtube.com/watch?v=pdDE1CzeYXg&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=41&t=0s
+#EXTINF:0,X GON GIVE IT TO YA !!!!!
+https://www.youtube.com/watch?v=fGx6K90TmCI&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=43&t=0s
+#EXTINF:0,Sucker for pain
+https://www.youtube.com/watch?v=6I2y_UbVz4U&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=44&t=0s
+#EXTINF:0,Painted black
+https://www.youtube.com/watch?v=O4irXQhgMqg&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=45&t=0s
+#EXTINF:0,7 years old
+https://www.youtube.com/watch?v=O4irXQhgMqg&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=45&t=0s
+#EXTINF:0,Awful things
+https://www.youtube.com/watch?v=zOujzvtwZ6M&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=50&t=0s
+#EXTINF:0,Stylo
+https://www.youtube.com/watch?v=nhPaWIeULKk&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=58&t=0s
+#EXTINF:0,Dare
+https://www.youtube.com/watch?v=nhPaWIeULKk&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=58&t=0s
+#EXTINF:0,Clint Eastwood
+https://www.youtube.com/watch?v=nhPaWIeULKk&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=58&t=0s
+#EXTINF:0,Saturnz barz
+https://www.youtube.com/watch?v=5qJp6xlKEug&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=63&t=0s
+#EXTINF:0,tranz
+https://www.youtube.com/watch?v=E2Q52cVx7Bo&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=90&t=0s
+#EXTINF:0,riptide
+https://www.youtube.com/watch?v=BdsdgL4_wuY&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=91&t=0s
+#EXTINF:0,bonfires and tailgates
+://www.youtube.com/watch?v=PEo959enMgs&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=93&t=0s
+#EXTINF:0,simple man
+https://www.youtube.com/watch?v=sMmTkKz60W8&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=94&t=0s
+#EXTINF:0,chrissy constanza
+https://www.youtube.com/watch?v=sMmTkKz60W8&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=94&t=0s
+#EXTINF:0,i love rock and roll
+https://www.youtube.com/watch?v=iC8oP4Z_xPw&list=PLL9pzfWvWpguvoPQiImAAG-63pZ3GdVTB&index=96&t=0s
+
