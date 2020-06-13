@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0,Froth - Patterns
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Patterns.aac
+#EXTINF:0,Froth - Lost My Mind
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Lost My Mind.aac
+#EXTINF:0,Froth - Too Wet
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Too Wet.aac
+#EXTINF:0,Froth - Gone
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Gone.aac
+#EXTINF:0,Froth - General Education
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/General Education.aac
+#EXTINF:0,Froth - Oaxaca
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Oaxaca.aac
+#EXTINF:0,Froth - Not Myself
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Not Myself.aac
+#EXTINF:0,Froth - Acid Couple Kiss
+https://storm37k.com/LBqwyQLeMxK2kUhv/froth/patterns/Acid Couple Kiss.aac
+

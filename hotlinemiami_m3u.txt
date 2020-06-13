@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0,Future Club
+https://www.dropbox.com/s/d9tnceq9jkq8euh/FutureClub.ogg?dl=1
+#EXTINF:0,Roller Mobster
+https://www.dropbox.com/s/ukcezxkgfehlsj1/RollerMobster.ogg?dl=1
+#EXTINF:0,She swallowed Burning Coals
+https://www.dropbox.com/s/78hdhdxegijymcm/BurningCoals.ogg?dl=1
+#EXTINF:0,Hotline Theme
+https://www.dropbox.com/s/7in8mzlz8rv6rro/HotlineTheme.ogg?dl=1
+#EXTINF:0,Turf Main
+https://www.dropbox.com/s/2ere9ls5udh0dll/TurfMain.ogg?dl=1
+#EXTINF:0,New Wave Hookers
+https://www.dropbox.com/s/jmjdl6g6fyunhts/NewWave.ogg?dl=1
+#EXTINF:0,Technoir
+https://www.dropbox.com/s/3y44n87xmr2dsym/Technoir.ogg?dl=1
+#EXTINF:0,Voyager
+https://www.dropbox.com/s/mb4a07jo1jo5x9e/voyager.ogg?dl=1
+#EXTINF:0,Castanets - You Are The Blood
+https://www.dropbox.com/s/2wtkl3w6p9hyt0k/YouAreTheBlood.ogg?dl=1
+
