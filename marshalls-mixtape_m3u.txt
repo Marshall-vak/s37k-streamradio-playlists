@@ -267,12 +267,16 @@ https://www.dropbox.com/s/47a03yjylogjeuy/LA%20BAMBA.mp3?dl=1
 https://www.dropbox.com/s/t6o9xbsr27ezr5p/LET%20IT%20WHIP.mp3?dl=1
 #EXTINF:0,Let's Dance
 https://www.dropbox.com/s/0jqs3zj8s38gczf/Let%27s%20Dance.mp3?dl=1
+#EXTINF:0,Let's Get It Started
+https://www.dropbox.com/s/nfadfhaubp04ynn/Let%27s%20Get%20It%20Started.mp3?dl=1
 #EXTINF:0,Let's Groove
 https://www.dropbox.com/s/m7osjgsofe8zp75/Let%27s%20Groove.mp3?dl=1
 #EXTINF:0,Let's Hear It for the Boy
 https://www.dropbox.com/s/kp6o5j7jrmp009e/Let%27s%20Hear%20It%20for%20the%20Boy.mp3?dl=1
 #EXTINF:0,Like A Prayer
 https://www.dropbox.com/s/xpj5j4f5uvds6ht/Like%20A%20Prayer.mp3?dl=1
+#EXTINF:0,Livin' La Vida Loca
+https://www.dropbox.com/s/pvy4xhd7rcglb8z/Livin%27%20La%20Vida%20Loca.mp3?dl=1
 #EXTINF:0,Loco in Acapulco
 https://www.dropbox.com/s/r78lguvg9zxuuoh/Loco%20in%20Acapulco.mp3?dl=1
 #EXTINF:0,Love In An Elevator
@@ -329,6 +333,8 @@ https://www.dropbox.com/s/vhc6hkbaruc27ll/Poison.mp3?dl=1
 https://www.dropbox.com/s/w51mb10xmqecu96/Posse%20on%20Broadway.mp3?dl=1
 #EXTINF:0,Pour Some Sugar On Me
 https://www.dropbox.com/s/sc9xu65rjqarbx7/Pour%20Some%20Sugar%20On%20Me.mp3?dl=1
+#EXTINF:0,Pump It
+https://www.dropbox.com/s/5i1yfxbunu1up2o/Pump%20It.mp3?dl=1
 #EXTINF:0,Pump Up The Jam
 https://www.dropbox.com/s/me8l5yk4xfli9vq/Pump%20Up%20The%20Jam.mp3?dl=1
 #EXTINF:0,Pumped up Kicks
@@ -441,6 +447,8 @@ https://www.dropbox.com/s/2s4cnhcw0qmr12u/The%20Look.mp3?dl=1
 https://www.dropbox.com/s/uzkstd6fdtumrjo/The%20Pina%20Colada%20Song.mp3?dl=1
 #EXTINF:0,The Power Of Love
 https://www.dropbox.com/s/6zy1qnxa4b7o1f3/The%20Power%20Of%20Love.mp3?dl=1
+#EXTINF:0,The Ultimate Showdown of Ultimate Destiny
+https://www.dropbox.com/s/vat2pekphvle5tq/The%20Ultimate%20Showdown%20of%20Ultimate%20Destiny.mp3?dl=1
 #EXTINF:0,This Is How We Do It
 https://www.dropbox.com/s/hpr47he9wrfd0t1/This%20Is%20How%20We%20Do%20It.mp3?dl=1
 #EXTINF:0,Thriller

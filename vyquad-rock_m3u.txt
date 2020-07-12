@@ -19,8 +19,12 @@ https://www.dropbox.com/s/meme0uixadv2qrn/ZZ%20Top%20Sharp%20Dressed%20Man.mp3?d
 https://www.dropbox.com/s/aow5usu9kaiv3h5/Rush-%20Spirit%20Of%20The%20Radio.mp3?dl=1
 #EXTINF:0,Blue Oyster Cult - Dont Fear The Reaper
 https://www.dropbox.com/s/fy4aclh8y6qdpd5/%5BDon%27t%20Fear%5D%20The%20Reaper.mp3?dl=1
-#EXTINF:0,Blue Oyster Cult -Burnin For You
+#EXTINF:0,Blue Oyster Cult - Burnin For You
 https://www.dropbox.com/s/y2j88a1uggtwv9w/Blue%20Oyster%20Cult%20Burnin%27%20For%20You.mp3?dl=1
 #EXTINF:0,Cheap Trick - Surrender
 https://www.dropbox.com/s/bqnx0j0sw32vg62/Cheap%20Trick%20Surrender.mp3?dl=1
+#EXTINF:0,Rush - Closer to the Heart
+https://www.dropbox.com/s/yzu7blz3j9i9dbb/closertotheheart.mp3?dl=1
+#EXTINF:0,Goofy Goober Rock
+https://www.dropbox.com/s/oxi01a9ys48ejxg/GOOFYGOOBER.mp3?dl=1
 

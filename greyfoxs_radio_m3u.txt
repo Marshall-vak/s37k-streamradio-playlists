@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,Siren
+https://www.dropbox.com/s/1tpcgrc54w8n4ak/Nightcore%20Siren%20%5Blyrics%5D.mp3?dl=1
+#EXTINF:0,Cravin
+https://www.dropbox.com/s/dpv854st44h6wcf/Nightcore%20-%20Cravin%20%28Stileto%20ft.%20Kendyle%20Paige%29%20-%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Angry Too
+https://www.dropbox.com/s/9y97he1q050x2br/Nightcore%20-%20Angry%20Too%20LyricsNMV.mp3?dl=1
+#EXTINF:0,Tag Your It
+https://www.dropbox.com/s/zu2umqkms4bxmmi/Nightcore%20-%20Tag%2C%20You%27re%20It.mp3?dl=1
+#EXTINF:0,The Rise
+https://www.dropbox.com/s/cr7xoict3byc0vz/Dreweybear%20-%20The%20Rise%20%28Ft.%20Ashley%20Apollodor%29%20%5BChill%20Trap%20Release%5D.mp3?dl=1
+
