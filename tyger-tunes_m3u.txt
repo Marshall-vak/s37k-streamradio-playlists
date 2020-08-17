@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,3mo - bbno$
+https://www.dropbox.com/s/9zx8vsd6jylzdnw/3mo%20prod.%20lentra%20%28official%20music%20video%29.mp3?dl=1
+#EXTINF:0,6 Underground - Sneaker Pimps
+https://www.dropbox.com/s/u9nwwg3hdjqbw9l/6%20Underground%20-%20Sneaker%20Pimps.mp3?dl=1
+#EXTINF:0,A Little Bit Off - FFDP
+https://www.dropbox.com/s/1wufo4q8e7k64sh/A%20Little%20Bit%20Off%20-%20FFDP.mp3?dl=1
 #EXTINF:0,Aerials - System Of A Down
 https://www.dropbox.com/s/skwi74pynnx2ak6/Aerials%20-%20System%20Of%20A%20Down.mp3?dl=1
 #EXTINF:0,Alive - Pearl Jam
@@ -7,16 +13,24 @@ https://www.dropbox.com/s/qe6ipgsjb064pqh/Alive%20-%20Pearl%20Jam.mp3?dl=1
 https://www.dropbox.com/s/2wdyt6wpid9ba5j/All%20Apologies%20%28Original%20Steve%20Albini%201993%20Mix%29%20-%20Nirvana.mp3?dl=1
 #EXTINF:0,Apologize (Timbaland) - OneRepublic
 https://www.dropbox.com/s/p1xhlz5f7u92hwi/Apologize%20%28Timbaland%29%20-%20OneRepublic.mp3?dl=1
+#EXTINF:0,Atlas Falls - Shinedown
+https://www.dropbox.com/s/wyhh8iag0y138xb/Atlas%20Falls%20-%20Shinedown.mp3?dl=1
 #EXTINF:0,Bad Company - Five Finger Death Punch
 https://www.dropbox.com/s/pn4ykey1tu5m2ay/Bad%20Company%20-%20Five%20Finger%20Death%20Punch.mp3?dl=1
 #EXTINF:0,Battle Cry - Imagine Dragons
 https://www.dropbox.com/s/ebmmxzr68lj1q23/Battle%20Cry%20-%20Imagince%20Dragons.mp3?dl=1
+#EXTINF:0,Beat It - Michael Jackson
+https://www.dropbox.com/s/ax5e3368brl5jup/Beat%20It%20-%20Michael%20Jackson.mp3?dl=1
 #EXTINF:0,Better - Khalid
 https://www.dropbox.com/s/zbhe9nllqe47c9m/Better%20-%20Khalid.mp3?dl=1
 #EXTINF:0,Bitter Sweet Symphony (Extended) - The Verve
 https://www.dropbox.com/s/06mguiq55t11632/Bitter%20Sweet%20Symphony%20%28Extended%20Version%29%20-%20The%20Verve.mp3?dl=1
 #EXTINF:0,Black - Pearl Jam
 https://www.dropbox.com/s/7urnfskyeclacmd/Black%20-%20Pearl%20Jam.mp3?dl=1
+#EXTINF:0,Black Gives Way To Blue - Alice In Chains
+https://www.dropbox.com/s/3n2porvq31ywh0m/Black%20Gives%20Way%20To%20Blue%20-%20Alice%20In%20Chains.mp3?dl=1
+#EXTINF:0,Black Hole Sun - Dan Avidan
+https://www.dropbox.com/s/b5vpchixufffi26/Black%20Hole%20Sun%20-%20Dan%20Avidan.mp3?dl=1
 #EXTINF:0,Californication - Red Hot Chili Peppers
 https://www.dropbox.com/s/p57qr8qipsf01yd/Californication%20-%20Red%20Hot%20Chili%20Peppers.mp3?dl=1
 #EXTINF:0,Check My Brain - Alice In Chains
@@ -147,6 +161,8 @@ https://www.dropbox.com/s/jp5k8p45z06wovn/Up%20there%20-%20Post%20Malone.mp3?dl=
 https://www.dropbox.com/s/33a246xlxmdlbuj/What%20a%20Shame%20-%20Shinedown.mp3?dl=1
 #EXTINF:0,What a Wonderful World - Louis Armstrong
 https://www.dropbox.com/s/993xgir48cy8mm9/What%20a%20Wonderful%20World%20-%20Louis%20Armstrong.mp3?dl=1
+#EXTINF:0,who dat boi - bbno$
+https://www.dropbox.com/s/ubpvh91vvxadn68/who%20dat%20boi%20ft.%20so%20loki%20%5Bprod.%20lentra%5D.mp3?dl=1
 #EXTINF:0,Wish You Were Here - Pink Floyd
 https://www.dropbox.com/s/ixcc9idck7o6lsb/Wish%20You%20Were%20Here%20-%20Pink%20Floyd.mp3?dl=1
 #EXTINF:0,Wrong Side of Heaven - Five Finger Death Punch

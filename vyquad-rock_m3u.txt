@@ -27,4 +27,8 @@ https://www.dropbox.com/s/bqnx0j0sw32vg62/Cheap%20Trick%20Surrender.mp3?dl=1
 https://www.dropbox.com/s/yzu7blz3j9i9dbb/closertotheheart.mp3?dl=1
 #EXTINF:0,Goofy Goober Rock
 https://www.dropbox.com/s/oxi01a9ys48ejxg/GOOFYGOOBER.mp3?dl=1
+#EXTINF:0,ACDC - D4C
+https://www.dropbox.com/s/12sttv7vim64gnx/Dirty%20Deeds%20Done%20Dirt%20Cheap-UIE4UjBtx-o.mp4?dl=1
+#EXTINF:0,Cheap Trick - Shes Tight
+https://www.dropbox.com/s/ynafty7tkn52xdj/Shes%20Tight%20-%20Cheap%20Trick.mp3?dl=1
 

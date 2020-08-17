@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:0,In Your Eyes
-https://www.dropbox.com/s/jdbsv3t5z3tm2n9/The%20Weeknd%20-%20In%20Your%20Eyes%20%28Audio%29.mp3?dl=1
+#EXTINF:0,Kings & Queens
+https://www.dropbox.com/s/j985w8xpph7n7zr/Ava%20Max%20-%20Kings%20%26amp%3B%20Queens%20%5BOfficial%20Visualizer%5D.mp3?dl=1
 
