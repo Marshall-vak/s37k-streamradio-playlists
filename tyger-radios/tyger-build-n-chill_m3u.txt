@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:0,Eclipse
+https://www.dropbox.com/s/d14pdyks07jh03c/Eclipse.mp3?dl=1
+#EXTINF:0,Decay
+https://www.dropbox.com/s/dtj192xz7ovlyv4/Decay.mp3?dl=1
+#EXTINF:0,Lo-Fi Rocket Jump Waltz
+https://www.dropbox.com/s/j0mcgnsrzocs1yi/lo-fi%20rocket%20jump%20waltz%20to%20studyrelax%20to.mp3?dl=1
+#EXTINF:0,Mega
+https://www.dropbox.com/s/ie0820ugczx7roo/Mega%20%28Bonus%20Track%29.mp3?dl=1
+#EXTINF:0,Pacific
+https://www.dropbox.com/s/85fr0at900d04hk/Pacific.mp3?dl=1
+#EXTINF:0,Tides
+https://www.dropbox.com/s/6me69bj7akljpd7/Tides.mp3?dl=1
+#EXTINF:0,Paradox
+https://www.dropbox.com/s/1t3mmy1riq9yqj2/Paradox.mp3?dl=1
+#EXTINF:0,The Everflow
+https://www.dropbox.com/s/mmpzhgf5sxyfy4i/Kama%20-%20The%20Everflow.mp3?dl=1
+#EXTINF:0,W.A.V.E.
+https://www.dropbox.com/s/6cijw6hocb9ma7s/W.A.V.E%20%28Bonus%20Track%29.mp3?dl=1
+#EXTINF:0,Resonance
+https://www.dropbox.com/s/u11txa1e7059f70/Resonance.mp3?dl=1
+#EXTINF:0,Sun
+https://www.dropbox.com/s/48k5v5fa09b27s5/Sun.mp3?dl=1
+
