@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:0,Triptides - Bright Sky
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Bright Sky.aac
+#EXTINF:0,Triptides - English Rain
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/English Rain.aac
+#EXTINF:0,Triptides - Shark Attack
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Shark Attack.aac
+#EXTINF:0,Triptides - Graveyard
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Graveyard.aac
+#EXTINF:0,Triptides - Sun/Shine
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Sun_Shine.aac
+#EXTINF:0,Triptides - Overboard
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Overboard.aac
+#EXTINF:0,Triptides - Morning Dew
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Morning Dew.aac
+#EXTINF:0,Triptides - Need You
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Need You.aac
+#EXTINF:0,Triptides - Voices
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Voices.aac
+#EXTINF:0,Triptides - Undone
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Undone.aac
+#EXTINF:0,Triptides - 20,000 Leagues
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/20_000 Leagues.aac
+#EXTINF:0,Triptides - Silhouette
+https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Silhouette.aac
 #EXTINF:0,Triptides - Darling
 https://storm37k.com/LBqwyQLeMxK2kUhv/triptides/sunpavilion/Darling.aac
 

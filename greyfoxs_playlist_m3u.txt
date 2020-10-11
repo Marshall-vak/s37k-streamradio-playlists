@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:0,The Rise
+https://www.dropbox.com/s/texqu3djlg5r2j5/Dreweybear%20-%20The%20Rise%20%28Ft.%20Ashley%20Apollodor%29%20%5BNightcore%5D.mp3?dl=1
+#EXTINF:0,Angry Too
+https://www.dropbox.com/s/9y97he1q050x2br/Nightcore%20-%20Angry%20Too%20LyricsNMV.mp3?dl=1
+#EXTINF:0,Cravin
+https://www.dropbox.com/s/djl3l7duaxitxh5/Nightcore%20-%20Cravin%20%28Stileto%20ft.%20Kendyle%20Paige%29%20-%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Friends
+https://www.dropbox.com/s/luzlb7tcmcipqly/Nightcore%20-%20FRIENDS%20%28Marshmello%20%26%20Anne-Marie%29%20-%20%28Lyrics%29.mp3?dl=1
+#EXTINF:0,Tag Your It
+https://www.dropbox.com/s/zu2umqkms4bxmmi/Nightcore%20-%20Tag%2C%20You%27re%20It.mp3?dl=1
+#EXTINF:0,Thanks For The Memories
+https://www.dropbox.com/s/57j7m47m2ykd76m/Nightcore%20-%20Thanks%20For%20The%20Memories.mp3?dl=1
+
