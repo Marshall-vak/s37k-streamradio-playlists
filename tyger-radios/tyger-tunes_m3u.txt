@@ -21,8 +21,6 @@ https://www.dropbox.com/s/p1xhlz5f7u92hwi/Apologize%20%28Timbaland%29%20-%20OneR
 https://www.dropbox.com/s/o5qk62wbzx0wm4e/Ashes%20of%20Eden.mp3?dl=1
 #EXTINF:0,Atlas Falls - Shinedown
 https://www.dropbox.com/s/wyhh8iag0y138xb/Atlas%20Falls%20-%20Shinedown.mp3?dl=1
-#EXTINF:0,Bad Ass Jit - Dee Watkins
-https://www.dropbox.com/s/lr5mpkiocg1jcns/Bad%20Ass%20Jit.mp3?dl=1
 #EXTINF:0,Bad Company - Five Finger Death Punch
 https://www.dropbox.com/s/pn4ykey1tu5m2ay/Bad%20Company%20-%20Five%20Finger%20Death%20Punch.mp3?dl=1
 #EXTINF:0,Battle Cry - Imagine Dragons
