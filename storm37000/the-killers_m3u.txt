@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,The Killers - Read My Mind
+https://storm37k.com/ytdl/132969682037637120/the_killers/sams_town/The%20Killers%20-%20Read%20My%20Mind%20%28Official%20Music%20Video%29.aac
+#EXTINF:0,The Killers - All These Things That Ive Done
+https://storm37k.com/ytdl/132969682037637120/the_killers/hot_fuss/The%20Killers%20-%20All%20These%20Things%20That%20I%27ve%20Done%20%28Official%20Music%20Video%29.aac
+#EXTINF:0,The Killers - Mr Brightside
+https://storm37k.com/ytdl/132969682037637120/the_killers/hot_fuss/Mr.%20Brightside.aac
+
