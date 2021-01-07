@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,Hawkwind - Dissapear in Smoke
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/The%20Psychedelic%20Warlords%20%28Disappear%20in%20Smoke%29%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - Winds of Change
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/Wind%20of%20Change%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - D-Rider
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/D-Rider%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - You'd Better Believe It
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/You%27d%20Better%20Believe%20It%20%28Live%20at%20Edmonton%20Sundown%29%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - Hall of the Mountain Grill
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/Hall%20of%20the%20Mountain%20Grill%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - Paradox
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/Paradox%20%28Live%20at%20Edmonton%20Sundown%29%20%28Remix%20Single%20Edit%29%20%281996%20Remaster%29.aac
+#EXTINF:0,Hawkwind - Paradox (Live)
+https://storm37k.com/ytdl/132969682037637120/hawkwind/hall_of_the_mountain_grill/Paradox%20%28Live%20at%20Edmonton%20Sundown%29%20%281996%20Remaster%29.aac
+
