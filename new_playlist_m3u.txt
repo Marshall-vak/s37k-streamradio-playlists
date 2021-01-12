@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,bruh
+https://youtu.be/2ZIpFytCSVc
+#EXTINF:0,slap my nuts
+https://youtu.be/iIgEWRb61IQ
+#EXTINF:0,The Neighborhood- Sweater Weather
+https://youtu.be/7pzOBI3PD8E
+#EXTINF:0,Curb Your Enthusiasm
+https://youtu.be/Ag1o3koTLWM
+#EXTINF:0,Seinfeld
+https://youtu.be/_V2sBURgUBI
+

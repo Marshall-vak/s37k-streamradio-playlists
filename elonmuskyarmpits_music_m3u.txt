@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:0,seinfeld
+https://youtu.be/_V2sBURgUBI
+#EXTINF:0,Curb your Enthusiasm
+https://youtu.be/Ag1o3koTLWM
+#EXTINF:0,sweater weather
+https://youtu.be/7pzOBI3PD8E
+#EXTINF:0,Banana dance
+https://youtu.be/MFmr_TZLpS0
+#EXTINF:0,guacamole dance
+https://youtu.be/otmOnsBIT_A
+#EXTINF:0,Elevator music
+https://youtu.be/xy_NKN75Jhw
+
