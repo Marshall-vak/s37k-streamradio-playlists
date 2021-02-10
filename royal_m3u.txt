@@ -1,62 +1,6 @@
 #EXTM3U
-#EXTINF:0,Tiny Dancer
-https://www.dropbox.com/s/lwli92bvmabex5c/tinydancer.mp3?dl=1
-#EXTINF:0,Your Song
-https://www.dropbox.com/s/cmf3b28y1fl2qqs/yoursong.mp3?dl=1
-#EXTINF:0,Rocketman
-https://www.dropbox.com/s/7qca6n8ozn31vl1/rocketman.mp3?dl=1
-#EXTINF:0,CrocodileRock
-https://www.dropbox.com/s/2vhwaafy4b8b6xr/crocodilerock.mp3?dl=1
-#EXTINF:0,Bennie and the jets
-https://www.dropbox.com/s/qsv18ij4ppuc5vv/bennieandthejets.mp3?dl=1
-#EXTINF:0,House of the rising sun
-https://www.dropbox.com/s/wvalrqvej0kyr07/houseoftherisingsun.mp3?dl=1
-#EXTINF:0,A song for you
-https://www.dropbox.com/s/wk77er1eqpndt04/songforyou.mp3?dl=1
-#EXTINF:0,Hurt (JC)
-https://www.dropbox.com/s/gpwq0hlq1d97ck7/hurt.mp3?dl=1
-#EXTINF:0,Giant
-https://www.dropbox.com/s/hw8esj0s4y2zbgl/giant.mp3?dl=1
-#EXTINF:0,Human
-https://www.dropbox.com/s/qqha4kru02d9m1c/Humanrgb.mp3?dl=1
-#EXTINF:0,Stay with me
-https://www.dropbox.com/s/nb6z6lsd9wsj9fu/staywithme.mp3?dl=1
-#EXTINF:0,Left Bank Two
-https://www.dropbox.com/s/l38rnd4wuxfv7lx/leftbanktwo.mp3?dl=1
-#EXTINF:0,Honky cat
-https://www.dropbox.com/s/6wfkyrgve082484/honkycat.mp3?dl=1
-#EXTINF:0,Ring of Fire
-https://www.dropbox.com/s/uxpi9l63l5sno9z/ringofire.mp3?dl=1
-#EXTINF:0,Staying Alive
-https://www.dropbox.com/s/e28lrlkpjz51s8t/stayingalive.mp3?dl=1
-#EXTINF:0,Smooth Criminal
-https://www.dropbox.com/s/tt4erzu4m9ej4bb/smoothcriminal.mp3?dl=1
-#EXTINF:0,Ghost Busters
-https://www.dropbox.com/s/bv9r11p2oc1hjod/ghostbusters.mp3?dl=1
-#EXTINF:0,September
-https://www.dropbox.com/s/oxm9ha0ui3mvhzi/september.mp3?dl=1
-#EXTINF:0,Im Still Standing
-https://www.dropbox.com/s/v6j5iou9yyl1ekm/imstillstanding.mp3?dl=1
-#EXTINF:0,I will survive
-https://www.dropbox.com/s/izdy5wlw80tfh4f/iwillsurvive.mp3?dl=1
-#EXTINF:0,Starboy (explict)
-https://www.dropbox.com/s/e9fts8mkzxbek8y/starboy.mp3?dl=1
-#EXTINF:0,Blinding Lights
-https://www.dropbox.com/s/km7asvdhduqqp1b/blindinglights.mp3?dl=1
+#EXTINF:0,Pray for me
+https://onenonlyroyal.github.io/Royal/Pray%20for%20me.mp3
 #EXTINF:0,Middle Child
-https://www.dropbox.com/s/i860w85ie4206zw/middlechild.mp3?dl=1
-#EXTINF:0,In Your Eyes
-https://www.dropbox.com/s/1m66uhbv3fiexi5/inyoureyes.mp3?dl=1
-#EXTINF:0,The Hills
-https://www.dropbox.com/s/y4lhxh1dlv82jl1/thehills.mp3?dl=1
-#EXTINF:0,Heathens
-https://www.dropbox.com/s/rf61i3sjtmsg2rn/heathens.mp3?dl=1
-#EXTINF:0,Lose Yourself
-https://www.dropbox.com/s/c12lb5tbg57yt3m/loseyourself.mp3?dl=1
-#EXTINF:0,Old Town Road
-https://www.dropbox.com/s/t2hxx0h3yl05in8/oldtownroad.mp3?dl=1
-#EXTINF:0,Betty Boop
-https://www.dropbox.com/s/5ph5k22ede5mucg/bettyboop.mp3?dl=1
-#EXTINF:0,The Phoenix
-https://www.dropbox.com/s/tkbnxvp5f3d374i/phoenix.mp3?dl=1
+https://onenonlyroyal.github.io/Royal/middlechild.mp3
 
